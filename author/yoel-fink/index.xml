@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Yoel Fink | Biolelectronics at MIT</title>
-    <link>/author/yoel-fink/</link>
-      <atom:link href="/author/yoel-fink/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://biolectronics-mit.github.io/author/yoel-fink/</link>
+      <atom:link href="https://biolectronics-mit.github.io/author/yoel-fink/index.xml" rel="self" type="application/rss+xml" />
     <description>Yoel Fink</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 06 Jul 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/logo_hu824973b0e9eedfd7e339f3ab3f0c6ec4_36236_300x300_fit_lanczos_2.png</url>
+      <url>https://biolectronics-mit.github.io/images/logo_hu824973b0e9eedfd7e339f3ab3f0c6ec4_36236_300x300_fit_lanczos_2.png</url>
       <title>Yoel Fink</title>
-      <link>/author/yoel-fink/</link>
+      <link>https://biolectronics-mit.github.io/author/yoel-fink/</link>
     </image>
     
     <item>
       <title>Gaseous Messenger Molecule</title>
-      <link>/post/2020-gaseous-messenger-molecule/</link>
+      <link>https://biolectronics-mit.github.io/post/2020-gaseous-messenger-molecule/</link>
       <pubDate>Mon, 06 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>/post/2020-gaseous-messenger-molecule/</guid>
+      <guid>https://biolectronics-mit.github.io/post/2020-gaseous-messenger-molecule/</guid>
       <description>&lt;p&gt;Nitric oxide is an important signaling molecule in the body, with a role in building nervous system connections that contribute to learning and memory. It also functions as a messenger in the cardiovascular and immune systems.&lt;/p&gt;
 &lt;p&gt;But it has been difficult for researchers to study exactly what its role is in these systems and how it functions. Because it is a gas, there has been no practical way to direct it to specific individual cells in order to observe its effects. Now, a team of scientists and engineers at MIT and elsewhere has found a way of generating the gas at precisely targeted locations inside the body, potentially opening new lines of research on this essential molecule’s effects.&lt;/p&gt;
 &lt;p&gt;The findings are reported today in the journal Nature Nanotechnology, in a paper by MIT professors Polina Anikeeva, Karthish Manthiram, and Yoel Fink; graduate student Jimin Park; postdoc Kyoungsuk Jin; and 10 others at MIT and in Taiwan, Japan, and Israel.&lt;/p&gt;
@@ -26,33 +26,33 @@
     
     <item>
       <title>In situ electrochemical generation of nitric oxide for neuronal modulation</title>
-      <link>/publication/park-2020-in-situ/</link>
+      <link>https://biolectronics-mit.github.io/publication/park-2020-in-situ/</link>
       <pubDate>Mon, 29 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/park-2020-in-situ/</guid>
+      <guid>https://biolectronics-mit.github.io/publication/park-2020-in-situ/</guid>
       <description></description>
     </item>
     
     <item>
       <title>In vivo photopharmacology enabled by multifunctional fibers</title>
-      <link>/publication/frank-2020-vivo/</link>
+      <link>https://biolectronics-mit.github.io/publication/frank-2020-vivo/</link>
       <pubDate>Fri, 20 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/frank-2020-vivo/</guid>
+      <guid>https://biolectronics-mit.github.io/publication/frank-2020-vivo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Strain-programmable fiber-based artificial muscle</title>
-      <link>/publication/kanik-2019-strain/</link>
+      <link>https://biolectronics-mit.github.io/publication/kanik-2019-strain/</link>
       <pubDate>Fri, 12 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/kanik-2019-strain/</guid>
+      <guid>https://biolectronics-mit.github.io/publication/kanik-2019-strain/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Artificial Muscles</title>
-      <link>/post/2019-artificial-muscles/</link>
+      <link>https://biolectronics-mit.github.io/post/2019-artificial-muscles/</link>
       <pubDate>Thu, 11 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>/post/2019-artificial-muscles/</guid>
+      <guid>https://biolectronics-mit.github.io/post/2019-artificial-muscles/</guid>
       <description>&lt;p&gt;MIT researchers, including professors Polina Anikeeva, Yoel Fink, and Cem Tasan, have developed a new fiber-based system that could be used as artificial muscles for robots, prosthetic limbs, or other mechanical and biomedical applications. Inspired by cucumber plants, which use their tightly-coiled tendrils to pull the plants upwards, this system utilizes a heat-activated coiling-and-pulling mechanism. Two materials that have different rates of thermal expansion are joined, causing the resulting fiber to form a tight coil with a surprisingly strong pulling force when even a small increase in temperature is applied. This process of contracting and expanding was shown in testing to maintain its strength even after repeating 10,000 times.&lt;/p&gt;
 &lt;p&gt;These fibers can span a wide range of sizes, and can easily be manufactured in batches up to hundreds of meters long. They are extremely lightweight and can respond quickly. Such fibers could be useful as actuators in robotic arms, legs, or grippers, as well as in prosthetic limbs, although postdoc Mehmet Kanik says that the possibilities for materials of this type are virtually limitless.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;http://news.mit.edu/2019/artificial-fiber-muscles-0711&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Read the full story&lt;/a&gt;&lt;/p&gt;
@@ -61,49 +61,49 @@
     
     <item>
       <title>Scalable Fabrication of Porous Microchannel Nerve Guidance Scaffolds with Complex Geometries</title>
-      <link>/publication/shahriari-2019-scalable/</link>
+      <link>https://biolectronics-mit.github.io/publication/shahriari-2019-scalable/</link>
       <pubDate>Thu, 06 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/shahriari-2019-scalable/</guid>
+      <guid>https://biolectronics-mit.github.io/publication/shahriari-2019-scalable/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Flexible fiber-based optoelectronics for neural interfaces</title>
-      <link>/publication/park-2019-flexible/</link>
+      <link>https://biolectronics-mit.github.io/publication/park-2019-flexible/</link>
       <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/park-2019-flexible/</guid>
+      <guid>https://biolectronics-mit.github.io/publication/park-2019-flexible/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Flexible and stretchable nanowire-coated fibers for optoelectronic probing of spinal cord circuits</title>
-      <link>/publication/lu-2017-flexible/</link>
+      <link>https://biolectronics-mit.github.io/publication/lu-2017-flexible/</link>
       <pubDate>Wed, 29 Mar 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/lu-2017-flexible/</guid>
+      <guid>https://biolectronics-mit.github.io/publication/lu-2017-flexible/</guid>
       <description></description>
     </item>
     
     <item>
       <title>One-step optogenetics with multifunctional flexible polymer fibers</title>
-      <link>/publication/park-2017-one/</link>
+      <link>https://biolectronics-mit.github.io/publication/park-2017-one/</link>
       <pubDate>Mon, 20 Feb 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/park-2017-one/</guid>
+      <guid>https://biolectronics-mit.github.io/publication/park-2017-one/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Thermally drawn fibers as nerve guidance scaffolds</title>
-      <link>/publication/koppes-2016-thermally/</link>
+      <link>https://biolectronics-mit.github.io/publication/koppes-2016-thermally/</link>
       <pubDate>Tue, 01 Mar 2016 00:00:00 +0000</pubDate>
-      <guid>/publication/koppes-2016-thermally/</guid>
+      <guid>https://biolectronics-mit.github.io/publication/koppes-2016-thermally/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Multifunctional fibers for simultaneous optical, electrical and chemical interrogation of neural circuits in vivo</title>
-      <link>/publication/canales-2015-multifunctional/</link>
+      <link>https://biolectronics-mit.github.io/publication/canales-2015-multifunctional/</link>
       <pubDate>Mon, 19 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>/publication/canales-2015-multifunctional/</guid>
+      <guid>https://biolectronics-mit.github.io/publication/canales-2015-multifunctional/</guid>
       <description></description>
     </item>
     

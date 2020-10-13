@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>David C Bono | Biolelectronics at MIT</title>
-    <link>/author/david-c-bono/</link>
-      <atom:link href="/author/david-c-bono/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://biolectronics-mit.github.io/author/david-c-bono/</link>
+      <atom:link href="https://biolectronics-mit.github.io/author/david-c-bono/index.xml" rel="self" type="application/rss+xml" />
     <description>David C Bono</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 10 Jul 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/logo_hu824973b0e9eedfd7e339f3ab3f0c6ec4_36236_300x300_fit_lanczos_2.png</url>
+      <url>https://biolectronics-mit.github.io/images/logo_hu824973b0e9eedfd7e339f3ab3f0c6ec4_36236_300x300_fit_lanczos_2.png</url>
       <title>David C Bono</title>
-      <link>/author/david-c-bono/</link>
+      <link>https://biolectronics-mit.github.io/author/david-c-bono/</link>
     </image>
     
     <item>
       <title>Magnetothermal Multiplexing for Selective Remote Control of Cell Signaling</title>
-      <link>/publication/moon-2020-magneothermal/</link>
+      <link>https://biolectronics-mit.github.io/publication/moon-2020-magneothermal/</link>
       <pubDate>Fri, 10 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/moon-2020-magneothermal/</guid>
+      <guid>https://biolectronics-mit.github.io/publication/moon-2020-magneothermal/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Practical methods for generating alternating magnetic fields for biomedical research</title>
-      <link>/publication/christiansen-2017-practical/</link>
+      <link>https://biolectronics-mit.github.io/publication/christiansen-2017-practical/</link>
       <pubDate>Tue, 22 Aug 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/christiansen-2017-practical/</guid>
+      <guid>https://biolectronics-mit.github.io/publication/christiansen-2017-practical/</guid>
       <description></description>
     </item>
     

@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jeewoo Kang | Biolelectronics at MIT</title>
-    <link>/author/jeewoo-kang/</link>
-      <atom:link href="/author/jeewoo-kang/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://biolectronics-mit.github.io/author/jeewoo-kang/</link>
+      <atom:link href="https://biolectronics-mit.github.io/author/jeewoo-kang/index.xml" rel="self" type="application/rss+xml" />
     <description>Jeewoo Kang</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 29 Mar 2017 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/logo_hu824973b0e9eedfd7e339f3ab3f0c6ec4_36236_300x300_fit_lanczos_2.png</url>
+      <url>https://biolectronics-mit.github.io/images/logo_hu824973b0e9eedfd7e339f3ab3f0c6ec4_36236_300x300_fit_lanczos_2.png</url>
       <title>Jeewoo Kang</title>
-      <link>/author/jeewoo-kang/</link>
+      <link>https://biolectronics-mit.github.io/author/jeewoo-kang/</link>
     </image>
     
     <item>
       <title>Flexible and stretchable nanowire-coated fibers for optoelectronic probing of spinal cord circuits</title>
-      <link>/publication/lu-2017-flexible/</link>
+      <link>https://biolectronics-mit.github.io/publication/lu-2017-flexible/</link>
       <pubDate>Wed, 29 Mar 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/lu-2017-flexible/</guid>
+      <guid>https://biolectronics-mit.github.io/publication/lu-2017-flexible/</guid>
       <description></description>
     </item>
     
     <item>
       <title>One-step optogenetics with multifunctional flexible polymer fibers</title>
-      <link>/publication/park-2017-one/</link>
+      <link>https://biolectronics-mit.github.io/publication/park-2017-one/</link>
       <pubDate>Mon, 20 Feb 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/park-2017-one/</guid>
+      <guid>https://biolectronics-mit.github.io/publication/park-2017-one/</guid>
       <description></description>
     </item>
     

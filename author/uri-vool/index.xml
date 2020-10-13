@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Uri Vool | Biolelectronics at MIT</title>
-    <link>/author/uri-vool/</link>
-      <atom:link href="/author/uri-vool/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://biolectronics-mit.github.io/author/uri-vool/</link>
+      <atom:link href="https://biolectronics-mit.github.io/author/uri-vool/index.xml" rel="self" type="application/rss+xml" />
     <description>Uri Vool</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 09 Sep 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/logo_hu824973b0e9eedfd7e339f3ab3f0c6ec4_36236_300x300_fit_lanczos_2.png</url>
+      <url>https://biolectronics-mit.github.io/images/logo_hu824973b0e9eedfd7e339f3ab3f0c6ec4_36236_300x300_fit_lanczos_2.png</url>
       <title>Uri Vool</title>
-      <link>/author/uri-vool/</link>
+      <link>https://biolectronics-mit.github.io/author/uri-vool/</link>
     </image>
     
     <item>
       <title>Imaging phonon-mediated hydrodynamic flow in WTe2 with cryogenic quantum magnetometry</title>
-      <link>/publication/varnavides-2020-imaging/</link>
+      <link>https://biolectronics-mit.github.io/publication/varnavides-2020-imaging/</link>
       <pubDate>Wed, 09 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/varnavides-2020-imaging/</guid>
+      <guid>https://biolectronics-mit.github.io/publication/varnavides-2020-imaging/</guid>
       <description></description>
     </item>
     

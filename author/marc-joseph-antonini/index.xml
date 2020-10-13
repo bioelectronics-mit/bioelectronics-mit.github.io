@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Marc-Joseph Antonini | Biolelectronics at MIT</title>
-    <link>/author/marc-joseph-antonini/</link>
-      <atom:link href="/author/marc-joseph-antonini/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://biolectronics-mit.github.io/author/marc-joseph-antonini/</link>
+      <atom:link href="https://biolectronics-mit.github.io/author/marc-joseph-antonini/index.xml" rel="self" type="application/rss+xml" />
     <description>Marc-Joseph Antonini</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 20 Mar 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/logo_hu824973b0e9eedfd7e339f3ab3f0c6ec4_36236_300x300_fit_lanczos_2.png</url>
+      <url>https://biolectronics-mit.github.io/images/logo_hu824973b0e9eedfd7e339f3ab3f0c6ec4_36236_300x300_fit_lanczos_2.png</url>
       <title>Marc-Joseph Antonini</title>
-      <link>/author/marc-joseph-antonini/</link>
+      <link>https://biolectronics-mit.github.io/author/marc-joseph-antonini/</link>
     </image>
     
     <item>
       <title>In vivo photopharmacology enabled by multifunctional fibers</title>
-      <link>/publication/frank-2020-vivo/</link>
+      <link>https://biolectronics-mit.github.io/publication/frank-2020-vivo/</link>
       <pubDate>Fri, 20 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/frank-2020-vivo/</guid>
+      <guid>https://biolectronics-mit.github.io/publication/frank-2020-vivo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Next-generation interfaces for studying neural function</title>
-      <link>/publication/frank-2019-next/</link>
+      <link>https://biolectronics-mit.github.io/publication/frank-2019-next/</link>
       <pubDate>Mon, 12 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/frank-2019-next/</guid>
+      <guid>https://biolectronics-mit.github.io/publication/frank-2019-next/</guid>
       <description></description>
     </item>
     

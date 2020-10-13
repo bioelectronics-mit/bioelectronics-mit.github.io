@@ -2,53 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ulrich P Froriep | Biolelectronics at MIT</title>
-    <link>/author/ulrich-p-froriep/</link>
-      <atom:link href="/author/ulrich-p-froriep/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://biolectronics-mit.github.io/author/ulrich-p-froriep/</link>
+      <atom:link href="https://biolectronics-mit.github.io/author/ulrich-p-froriep/index.xml" rel="self" type="application/rss+xml" />
     <description>Ulrich P Froriep</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 11 Jul 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/logo_hu824973b0e9eedfd7e339f3ab3f0c6ec4_36236_300x300_fit_lanczos_2.png</url>
+      <url>https://biolectronics-mit.github.io/images/logo_hu824973b0e9eedfd7e339f3ab3f0c6ec4_36236_300x300_fit_lanczos_2.png</url>
       <title>Ulrich P Froriep</title>
-      <link>/author/ulrich-p-froriep/</link>
+      <link>https://biolectronics-mit.github.io/author/ulrich-p-froriep/</link>
     </image>
     
     <item>
       <title>Optogenetic entrainment of neural oscillations with hybrid fiber probes</title>
-      <link>/publication/kilias-2018-optogenetic/</link>
+      <link>https://biolectronics-mit.github.io/publication/kilias-2018-optogenetic/</link>
       <pubDate>Wed, 11 Jul 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/kilias-2018-optogenetic/</guid>
+      <guid>https://biolectronics-mit.github.io/publication/kilias-2018-optogenetic/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Targeted Magnetic Nanoparticles for Remote Magnetothermal Disruption of Amyloid-β Aggregates</title>
-      <link>/publication/loynachan-2015-targeted/</link>
+      <link>https://biolectronics-mit.github.io/publication/loynachan-2015-targeted/</link>
       <pubDate>Wed, 19 Aug 2015 00:00:00 +0000</pubDate>
-      <guid>/publication/loynachan-2015-targeted/</guid>
+      <guid>https://biolectronics-mit.github.io/publication/loynachan-2015-targeted/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Optogenetic control of nerve growth</title>
-      <link>/publication/park-2015-optogenetic/</link>
+      <link>https://biolectronics-mit.github.io/publication/park-2015-optogenetic/</link>
       <pubDate>Mon, 18 May 2015 00:00:00 +0000</pubDate>
-      <guid>/publication/park-2015-optogenetic/</guid>
+      <guid>https://biolectronics-mit.github.io/publication/park-2015-optogenetic/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Multifunctional fibers for simultaneous optical, electrical and chemical interrogation of neural circuits in vivo</title>
-      <link>/publication/canales-2015-multifunctional/</link>
+      <link>https://biolectronics-mit.github.io/publication/canales-2015-multifunctional/</link>
       <pubDate>Mon, 19 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>/publication/canales-2015-multifunctional/</guid>
+      <guid>https://biolectronics-mit.github.io/publication/canales-2015-multifunctional/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Polymer fiber probes enable optical control of spinal cord and muscle function in vivo</title>
-      <link>/publication/lu-2014-polymer/</link>
+      <link>https://biolectronics-mit.github.io/publication/lu-2014-polymer/</link>
       <pubDate>Tue, 26 Aug 2014 00:00:00 +0000</pubDate>
-      <guid>/publication/lu-2014-polymer/</guid>
+      <guid>https://biolectronics-mit.github.io/publication/lu-2014-polymer/</guid>
       <description></description>
     </item>
     

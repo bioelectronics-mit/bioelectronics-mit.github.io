@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Kelly A Zalocusky | Biolelectronics at MIT</title>
-    <link>/author/kelly-a-zalocusky/</link>
-      <atom:link href="/author/kelly-a-zalocusky/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://biolectronics-mit.github.io/author/kelly-a-zalocusky/</link>
+      <atom:link href="https://biolectronics-mit.github.io/author/kelly-a-zalocusky/index.xml" rel="self" type="application/rss+xml" />
     <description>Kelly A Zalocusky</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 19 Jun 2014 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/logo_hu824973b0e9eedfd7e339f3ab3f0c6ec4_36236_300x300_fit_lanczos_2.png</url>
+      <url>https://biolectronics-mit.github.io/images/logo_hu824973b0e9eedfd7e339f3ab3f0c6ec4_36236_300x300_fit_lanczos_2.png</url>
       <title>Kelly A Zalocusky</title>
-      <link>/author/kelly-a-zalocusky/</link>
+      <link>https://biolectronics-mit.github.io/author/kelly-a-zalocusky/</link>
     </image>
     
     <item>
       <title>Natural neural projection dynamics underlying social behavior</title>
-      <link>/publication/gunaydin-2014-natural/</link>
+      <link>https://biolectronics-mit.github.io/publication/gunaydin-2014-natural/</link>
       <pubDate>Thu, 19 Jun 2014 00:00:00 +0000</pubDate>
-      <guid>/publication/gunaydin-2014-natural/</guid>
+      <guid>https://biolectronics-mit.github.io/publication/gunaydin-2014-natural/</guid>
       <description></description>
     </item>
     

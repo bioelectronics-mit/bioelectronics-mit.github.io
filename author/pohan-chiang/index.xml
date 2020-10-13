@@ -2,77 +2,77 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pohan Chiang | Biolelectronics at MIT</title>
-    <link>/author/pohan-chiang/</link>
-      <atom:link href="/author/pohan-chiang/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://biolectronics-mit.github.io/author/pohan-chiang/</link>
+      <atom:link href="https://biolectronics-mit.github.io/author/pohan-chiang/index.xml" rel="self" type="application/rss+xml" />
     <description>Pohan Chiang</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 10 Aug 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/logo_hu824973b0e9eedfd7e339f3ab3f0c6ec4_36236_300x300_fit_lanczos_2.png</url>
+      <url>https://biolectronics-mit.github.io/images/logo_hu824973b0e9eedfd7e339f3ab3f0c6ec4_36236_300x300_fit_lanczos_2.png</url>
       <title>Pohan Chiang</title>
-      <link>/author/pohan-chiang/</link>
+      <link>https://biolectronics-mit.github.io/author/pohan-chiang/</link>
     </image>
     
     <item>
       <title>Remotely controlled proton generation for neuromodulation</title>
-      <link>/publication/park-2020-remotely/</link>
+      <link>https://biolectronics-mit.github.io/publication/park-2020-remotely/</link>
       <pubDate>Mon, 10 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/park-2020-remotely/</guid>
+      <guid>https://biolectronics-mit.github.io/publication/park-2020-remotely/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Magnetothermal Multiplexing for Selective Remote Control of Cell Signaling</title>
-      <link>/publication/moon-2020-magneothermal/</link>
+      <link>https://biolectronics-mit.github.io/publication/moon-2020-magneothermal/</link>
       <pubDate>Fri, 10 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/moon-2020-magneothermal/</guid>
+      <guid>https://biolectronics-mit.github.io/publication/moon-2020-magneothermal/</guid>
       <description></description>
     </item>
     
     <item>
       <title>In situ electrochemical generation of nitric oxide for neuronal modulation</title>
-      <link>/publication/park-2020-in-situ/</link>
+      <link>https://biolectronics-mit.github.io/publication/park-2020-in-situ/</link>
       <pubDate>Mon, 29 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/park-2020-in-situ/</guid>
+      <guid>https://biolectronics-mit.github.io/publication/park-2020-in-situ/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Magnetic Vortex Nanodiscs Enable Remote Magnetomechanical Neural Stimulation</title>
-      <link>/publication/gregurec-2019-tuning/</link>
+      <link>https://biolectronics-mit.github.io/publication/gregurec-2019-tuning/</link>
       <pubDate>Fri, 19 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/gregurec-2019-tuning/</guid>
+      <guid>https://biolectronics-mit.github.io/publication/gregurec-2019-tuning/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Transgene-free remote magnetothermal regulation of adrenal hormones</title>
-      <link>/publication/rosenfeld-2020-transgene/</link>
+      <link>https://biolectronics-mit.github.io/publication/rosenfeld-2020-transgene/</link>
       <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/rosenfeld-2020-transgene/</guid>
+      <guid>https://biolectronics-mit.github.io/publication/rosenfeld-2020-transgene/</guid>
       <description></description>
     </item>
     
     <item>
       <title>In vivo photopharmacology enabled by multifunctional fibers</title>
-      <link>/publication/frank-2020-vivo/</link>
+      <link>https://biolectronics-mit.github.io/publication/frank-2020-vivo/</link>
       <pubDate>Fri, 20 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/frank-2020-vivo/</guid>
+      <guid>https://biolectronics-mit.github.io/publication/frank-2020-vivo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Remotely controlled chemomagnetic modulation of targeted neural circuits</title>
-      <link>/publication/rao-2019-remotely/</link>
+      <link>https://biolectronics-mit.github.io/publication/rao-2019-remotely/</link>
       <pubDate>Mon, 19 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/rao-2019-remotely/</guid>
+      <guid>https://biolectronics-mit.github.io/publication/rao-2019-remotely/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Scalable Fabrication of Porous Microchannel Nerve Guidance Scaffolds with Complex Geometries</title>
-      <link>/publication/shahriari-2019-scalable/</link>
+      <link>https://biolectronics-mit.github.io/publication/shahriari-2019-scalable/</link>
       <pubDate>Thu, 06 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/shahriari-2019-scalable/</guid>
+      <guid>https://biolectronics-mit.github.io/publication/shahriari-2019-scalable/</guid>
       <description></description>
     </item>
     

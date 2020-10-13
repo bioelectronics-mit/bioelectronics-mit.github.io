@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Junsang Moon | Biolelectronics at MIT</title>
-    <link>/author/junsang-moon/</link>
-      <atom:link href="/author/junsang-moon/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://biolectronics-mit.github.io/author/junsang-moon/</link>
+      <atom:link href="https://biolectronics-mit.github.io/author/junsang-moon/index.xml" rel="self" type="application/rss+xml" />
     <description>Junsang Moon</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 10 Aug 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/logo_hu824973b0e9eedfd7e339f3ab3f0c6ec4_36236_300x300_fit_lanczos_2.png</url>
+      <url>https://biolectronics-mit.github.io/images/logo_hu824973b0e9eedfd7e339f3ab3f0c6ec4_36236_300x300_fit_lanczos_2.png</url>
       <title>Junsang Moon</title>
-      <link>/author/junsang-moon/</link>
+      <link>https://biolectronics-mit.github.io/author/junsang-moon/</link>
     </image>
     
     <item>
       <title>Remotely controlled proton generation for neuromodulation</title>
-      <link>/publication/park-2020-remotely/</link>
+      <link>https://biolectronics-mit.github.io/publication/park-2020-remotely/</link>
       <pubDate>Mon, 10 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/park-2020-remotely/</guid>
+      <guid>https://biolectronics-mit.github.io/publication/park-2020-remotely/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Magnetothermal Multiplexing for Selective Remote Control of Cell Signaling</title>
-      <link>/publication/moon-2020-magneothermal/</link>
+      <link>https://biolectronics-mit.github.io/publication/moon-2020-magneothermal/</link>
       <pubDate>Fri, 10 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/moon-2020-magneothermal/</guid>
+      <guid>https://biolectronics-mit.github.io/publication/moon-2020-magneothermal/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hormone Release</title>
-      <link>/post/2020-hormone-release/</link>
+      <link>https://biolectronics-mit.github.io/post/2020-hormone-release/</link>
       <pubDate>Fri, 10 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>/post/2020-hormone-release/</guid>
+      <guid>https://biolectronics-mit.github.io/post/2020-hormone-release/</guid>
       <description>&lt;p&gt;Abnormal levels of stress hormones such as adrenaline and cortisol are linked to a variety of mental health disorders, including depression and PTSD. MIT researchers, including the Anikeeva group, have now devised a way to remotely control the release of these hormones from the adrenal gland using magnetic nanoparticles.&lt;/p&gt;
 &lt;p&gt;To achieve control over hormone release, Dekel Rosenfeld, an MIT-Technion postdoc in Professor Anikeeva’s group, has developed specialized magnetic nanoparticles that can be injected into the adrenal gland. When exposed to a weak magnetic field, the particles heat up slightly, activating heat-responsive channels that trigger hormone release. This technique can be used to stimulate an organ deep in the body with minimal invasiveness.&lt;/p&gt;
 &lt;p&gt;The researchers now plan to use this approach to study how hormone release affects PTSD and other disorders, and they say that eventually it could be adapted for treating such disorders. This method would offer a much less invasive alternative to potential treatments that involve implanting a medical device to electrically stimulate hormone release, which is not feasible in organs such as the adrenal glands that are soft and highly vascularized.&lt;/p&gt;
@@ -42,17 +42,17 @@
     
     <item>
       <title>Transgene-free remote magnetothermal regulation of adrenal hormones</title>
-      <link>/publication/rosenfeld-2020-transgene/</link>
+      <link>https://biolectronics-mit.github.io/publication/rosenfeld-2020-transgene/</link>
       <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/rosenfeld-2020-transgene/</guid>
+      <guid>https://biolectronics-mit.github.io/publication/rosenfeld-2020-transgene/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Remotely controlled chemomagnetic modulation of targeted neural circuits</title>
-      <link>/publication/rao-2019-remotely/</link>
+      <link>https://biolectronics-mit.github.io/publication/rao-2019-remotely/</link>
       <pubDate>Mon, 19 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/rao-2019-remotely/</guid>
+      <guid>https://biolectronics-mit.github.io/publication/rao-2019-remotely/</guid>
       <description></description>
     </item>
     

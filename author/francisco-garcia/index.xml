@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Francisco Garcia | Biolelectronics at MIT</title>
-    <link>/author/francisco-garcia/</link>
-      <atom:link href="/author/francisco-garcia/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://biolectronics-mit.github.io/author/francisco-garcia/</link>
+      <atom:link href="https://biolectronics-mit.github.io/author/francisco-garcia/index.xml" rel="self" type="application/rss+xml" />
     <description>Francisco Garcia</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 19 Jun 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/logo_hu824973b0e9eedfd7e339f3ab3f0c6ec4_36236_300x300_fit_lanczos_2.png</url>
+      <url>https://biolectronics-mit.github.io/images/logo_hu824973b0e9eedfd7e339f3ab3f0c6ec4_36236_300x300_fit_lanczos_2.png</url>
       <title>Francisco Garcia</title>
-      <link>/author/francisco-garcia/</link>
+      <link>https://biolectronics-mit.github.io/author/francisco-garcia/</link>
     </image>
     
     <item>
       <title>Magnetic Vortex Nanodiscs Enable Remote Magnetomechanical Neural Stimulation</title>
-      <link>/publication/gregurec-2019-tuning/</link>
+      <link>https://biolectronics-mit.github.io/publication/gregurec-2019-tuning/</link>
       <pubDate>Fri, 19 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/gregurec-2019-tuning/</guid>
+      <guid>https://biolectronics-mit.github.io/publication/gregurec-2019-tuning/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Localized excitation of neural activity via rapid magnetothermal drug release</title>
-      <link>/publication/romero-2016-localized/</link>
+      <link>https://biolectronics-mit.github.io/publication/romero-2016-localized/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>/publication/romero-2016-localized/</guid>
+      <guid>https://biolectronics-mit.github.io/publication/romero-2016-localized/</guid>
       <description></description>
     </item>
     

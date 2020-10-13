@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Holly Liske | Biolelectronics at MIT</title>
-    <link>/author/holly-liske/</link>
-      <atom:link href="/author/holly-liske/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://biolectronics-mit.github.io/author/holly-liske/</link>
+      <atom:link href="https://biolectronics-mit.github.io/author/holly-liske/index.xml" rel="self" type="application/rss+xml" />
     <description>Holly Liske</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 31 Oct 2013 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/logo_hu824973b0e9eedfd7e339f3ab3f0c6ec4_36236_300x300_fit_lanczos_2.png</url>
+      <url>https://biolectronics-mit.github.io/images/logo_hu824973b0e9eedfd7e339f3ab3f0c6ec4_36236_300x300_fit_lanczos_2.png</url>
       <title>Holly Liske</title>
-      <link>/author/holly-liske/</link>
+      <link>https://biolectronics-mit.github.io/author/holly-liske/</link>
     </image>
     
     <item>
       <title>Optical control of neuronal excitation and inhibition using a single opsin protein, ChR2</title>
-      <link>/publication/liske-2013-optical-control/</link>
+      <link>https://biolectronics-mit.github.io/publication/liske-2013-optical-control/</link>
       <pubDate>Thu, 31 Oct 2013 00:00:00 +0000</pubDate>
-      <guid>/publication/liske-2013-optical-control/</guid>
+      <guid>https://biolectronics-mit.github.io/publication/liske-2013-optical-control/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Optical inhibition of motor nerve and muscle activity in vivo</title>
-      <link>/publication/liske-2013-optical/</link>
+      <link>https://biolectronics-mit.github.io/publication/liske-2013-optical/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>/publication/liske-2013-optical/</guid>
+      <guid>https://biolectronics-mit.github.io/publication/liske-2013-optical/</guid>
       <description></description>
     </item>
     

@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Anthony Tabet | Biolelectronics at MIT</title>
-    <link>/author/anthony-tabet/</link>
-      <atom:link href="/author/anthony-tabet/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://biolectronics-mit.github.io/author/anthony-tabet/</link>
+      <atom:link href="https://biolectronics-mit.github.io/author/anthony-tabet/index.xml" rel="self" type="application/rss+xml" />
     <description>Anthony Tabet</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 10 Aug 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/logo_hu824973b0e9eedfd7e339f3ab3f0c6ec4_36236_300x300_fit_lanczos_2.png</url>
+      <url>https://biolectronics-mit.github.io/images/logo_hu824973b0e9eedfd7e339f3ab3f0c6ec4_36236_300x300_fit_lanczos_2.png</url>
       <title>Anthony Tabet</title>
-      <link>/author/anthony-tabet/</link>
+      <link>https://biolectronics-mit.github.io/author/anthony-tabet/</link>
     </image>
     
     <item>
       <title>Remotely controlled proton generation for neuromodulation</title>
-      <link>/publication/park-2020-remotely/</link>
+      <link>https://biolectronics-mit.github.io/publication/park-2020-remotely/</link>
       <pubDate>Mon, 10 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/park-2020-remotely/</guid>
+      <guid>https://biolectronics-mit.github.io/publication/park-2020-remotely/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Applying support-vector machine learning algorithms toward predicting host-guest interactions with cucurbit[7]uril</title>
-      <link>/publication/tabet-2019-predicting/</link>
+      <link>https://biolectronics-mit.github.io/publication/tabet-2019-predicting/</link>
       <pubDate>Mon, 22 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/tabet-2019-predicting/</guid>
+      <guid>https://biolectronics-mit.github.io/publication/tabet-2019-predicting/</guid>
       <description></description>
     </item>
     

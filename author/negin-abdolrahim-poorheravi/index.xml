@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Negin Abdolrahim Poorheravi | Biolelectronics at MIT</title>
-    <link>/author/negin-abdolrahim-poorheravi/</link>
-      <atom:link href="/author/negin-abdolrahim-poorheravi/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://biolectronics-mit.github.io/author/negin-abdolrahim-poorheravi/</link>
+      <atom:link href="https://biolectronics-mit.github.io/author/negin-abdolrahim-poorheravi/index.xml" rel="self" type="application/rss+xml" />
     <description>Negin Abdolrahim Poorheravi</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Mar 2016 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/logo_hu824973b0e9eedfd7e339f3ab3f0c6ec4_36236_300x300_fit_lanczos_2.png</url>
+      <url>https://biolectronics-mit.github.io/images/logo_hu824973b0e9eedfd7e339f3ab3f0c6ec4_36236_300x300_fit_lanczos_2.png</url>
       <title>Negin Abdolrahim Poorheravi</title>
-      <link>/author/negin-abdolrahim-poorheravi/</link>
+      <link>https://biolectronics-mit.github.io/author/negin-abdolrahim-poorheravi/</link>
     </image>
     
     <item>
       <title>Thermally drawn fibers as nerve guidance scaffolds</title>
-      <link>/publication/koppes-2016-thermally/</link>
+      <link>https://biolectronics-mit.github.io/publication/koppes-2016-thermally/</link>
       <pubDate>Tue, 01 Mar 2016 00:00:00 +0000</pubDate>
-      <guid>/publication/koppes-2016-thermally/</guid>
+      <guid>https://biolectronics-mit.github.io/publication/koppes-2016-thermally/</guid>
       <description></description>
     </item>
     
