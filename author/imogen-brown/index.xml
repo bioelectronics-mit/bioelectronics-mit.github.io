@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Imogen Brown | Biolelectronics at MIT</title>
+    <link>/author/imogen-brown/</link>
+      <atom:link href="/author/imogen-brown/index.xml" rel="self" type="application/rss+xml" />
+    <description>Imogen Brown</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 29 Mar 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo_hu824973b0e9eedfd7e339f3ab3f0c6ec4_36236_300x300_fit_lanczos_2.png</url>
+      <title>Imogen Brown</title>
+      <link>/author/imogen-brown/</link>
+    </image>
+    
+    <item>
+      <title>Flexible and stretchable nanowire-coated fibers for optoelectronic probing of spinal cord circuits</title>
+      <link>/publication/lu-2017-flexible/</link>
+      <pubDate>Wed, 29 Mar 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/lu-2017-flexible/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

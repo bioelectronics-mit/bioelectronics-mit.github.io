@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nathan S Lachenmyer | Biolelectronics at MIT</title>
+    <link>/author/nathan-s-lachenmyer/</link>
+      <atom:link href="/author/nathan-s-lachenmyer/index.xml" rel="self" type="application/rss+xml" />
+    <description>Nathan S Lachenmyer</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>/images/logo_hu824973b0e9eedfd7e339f3ab3f0c6ec4_36236_300x300_fit_lanczos_2.png</url>
+      <title>Nathan S Lachenmyer</title>
+      <link>/author/nathan-s-lachenmyer/</link>
+    </image>
+    
+  </channel>
+</rss>

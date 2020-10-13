@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Atsushi Miyawaki | Biolelectronics at MIT</title>
+    <link>/author/atsushi-miyawaki/</link>
+      <atom:link href="/author/atsushi-miyawaki/index.xml" rel="self" type="application/rss+xml" />
+    <description>Atsushi Miyawaki</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 27 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo_hu824973b0e9eedfd7e339f3ab3f0c6ec4_36236_300x300_fit_lanczos_2.png</url>
+      <title>Atsushi Miyawaki</title>
+      <link>/author/atsushi-miyawaki/</link>
+    </image>
+    
+    <item>
+      <title>Voices in methods development</title>
+      <link>/publication/anikeeva-2019-voices/</link>
+      <pubDate>Fri, 27 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/anikeeva-2019-voices/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

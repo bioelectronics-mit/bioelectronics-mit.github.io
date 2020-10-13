@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Charlie Readman | Biolelectronics at MIT</title>
+    <link>/author/charlie-readman/</link>
+      <atom:link href="/author/charlie-readman/index.xml" rel="self" type="application/rss+xml" />
+    <description>Charlie Readman</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 22 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo_hu824973b0e9eedfd7e339f3ab3f0c6ec4_36236_300x300_fit_lanczos_2.png</url>
+      <title>Charlie Readman</title>
+      <link>/author/charlie-readman/</link>
+    </image>
+    
+    <item>
+      <title>Applying support-vector machine learning algorithms toward predicting host-guest interactions with cucurbit[7]uril</title>
+      <link>/publication/tabet-2019-predicting/</link>
+      <pubDate>Mon, 22 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/tabet-2019-predicting/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

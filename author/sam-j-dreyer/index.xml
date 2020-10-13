@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sam J Dreyer | Biolelectronics at MIT</title>
+    <link>/author/sam-j-dreyer/</link>
+      <atom:link href="/author/sam-j-dreyer/index.xml" rel="self" type="application/rss+xml" />
+    <description>Sam J Dreyer</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 15 Aug 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo_hu824973b0e9eedfd7e339f3ab3f0c6ec4_36236_300x300_fit_lanczos_2.png</url>
+      <title>Sam J Dreyer</title>
+      <link>/author/sam-j-dreyer/</link>
+    </image>
+    
+    <item>
+      <title>Optogenetic surface stimulation of the rat cervical spinal cord</title>
+      <link>/publication/mondello-2018-optogenetic/</link>
+      <pubDate>Wed, 15 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/mondello-2018-optogenetic/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

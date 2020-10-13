@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Matthew J Panzer | Biolelectronics at MIT</title>
+    <link>/author/matthew-j-panzer/</link>
+      <atom:link href="/author/matthew-j-panzer/index.xml" rel="self" type="application/rss+xml" />
+    <description>Matthew J Panzer</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2011 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo_hu824973b0e9eedfd7e339f3ab3f0c6ec4_36236_300x300_fit_lanczos_2.png</url>
+      <title>Matthew J Panzer</title>
+      <link>/author/matthew-j-panzer/</link>
+    </image>
+    
+    <item>
+      <title>Morphology of contact printed colloidal quantum dots in organic semiconductor films: Implications for QD-LEDs</title>
+      <link>/publication/aidala-2011-morphology/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/aidala-2011-morphology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nanoscale morphology revealed at the interface between colloidal quantum dots and organic semiconductor films</title>
+      <link>/publication/panzer-2010-nanoscale/</link>
+      <pubDate>Wed, 14 Jul 2010 00:00:00 +0000</pubDate>
+      <guid>/publication/panzer-2010-nanoscale/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

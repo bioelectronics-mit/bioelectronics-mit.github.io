@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lee-Ann Kim | Biolelectronics at MIT</title>
+    <link>/author/lee-ann-kim/</link>
+      <atom:link href="/author/lee-ann-kim/index.xml" rel="self" type="application/rss+xml" />
+    <description>Lee-Ann Kim</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 04 Sep 2006 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo_hu824973b0e9eedfd7e339f3ab3f0c6ec4_36236_300x300_fit_lanczos_2.png</url>
+      <title>Lee-Ann Kim</title>
+      <link>/author/lee-ann-kim/</link>
+    </image>
+    
+    <item>
+      <title>Color-saturated green-emitting QD-LEDs</title>
+      <link>/publication/steckel-2006-color/</link>
+      <pubDate>Mon, 04 Sep 2006 00:00:00 +0000</pubDate>
+      <guid>/publication/steckel-2006-color/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gabriel Loke | Biolelectronics at MIT</title>
+    <link>/author/gabriel-loke/</link>
+      <atom:link href="/author/gabriel-loke/index.xml" rel="self" type="application/rss+xml" />
+    <description>Gabriel Loke</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 06 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo_hu824973b0e9eedfd7e339f3ab3f0c6ec4_36236_300x300_fit_lanczos_2.png</url>
+      <title>Gabriel Loke</title>
+      <link>/author/gabriel-loke/</link>
+    </image>
+    
+    <item>
+      <title>Scalable Fabrication of Porous Microchannel Nerve Guidance Scaffolds with Complex Geometries</title>
+      <link>/publication/shahriari-2019-scalable/</link>
+      <pubDate>Thu, 06 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/shahriari-2019-scalable/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Flexible fiber-based optoelectronics for neural interfaces</title>
+      <link>/publication/park-2019-flexible/</link>
+      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/park-2019-flexible/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

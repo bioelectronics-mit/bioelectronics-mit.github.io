@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Devices | Biolelectronics at MIT</title>
+    <link>/tag/devices/</link>
+      <atom:link href="/tag/devices/index.xml" rel="self" type="application/rss+xml" />
+    <description>Devices</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 20 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo_hu824973b0e9eedfd7e339f3ab3f0c6ec4_36236_300x300_fit_lanczos_2.png</url>
+      <title>Devices</title>
+      <link>/tag/devices/</link>
+    </image>
+    
+    <item>
+      <title>Fiber-based Devices</title>
+      <link>/research-topic/3.fiber-based-devices/</link>
+      <pubDate>Sun, 20 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>/research-topic/3.fiber-based-devices/</guid>
+      <description>&lt;p&gt;In addition to neural interrogation, we are interested in using fiber-based all-polymer devices as scaffolds for neural tissue engineering and as potential replacements to the injured organs. The versatility of the fiber drawing process allows us to investigate the surface polarity and topographic structure of polymer-based nerve guidance channels on the axonal growth. Furthermore, we can design the fiber-based scaffolds to incorporate neural recording and optical neuromodulation capabilities. The latter may enable us to investigate the role of neural excitation on the axonal growth within the topographically controlled environment. We have recently found that optical neural excitation increases axonal growth by 3-4 fold, and furthermore exerts a directional bias on the growth of unstimulated tissues (&lt;a href=&#34;../../publication/park-2015-optogenetic/&#34;&gt;Sci. Rep. 2015&lt;/a&gt;). By combining this finding with the ability to optimize the scaffold geometry (&lt;a href=&#34;../../publication/koppes-2016-thermally/&#34;&gt;Biomaterials 2016&lt;/a&gt;) and nutrient transport (&lt;a href=&#34;../../publication/shahriari-2019-scalable/&#34;&gt;Adv. Mater. 2019&lt;/a&gt;) we intend to control the formation of synaptic connections between the neurons trapped within our scaffolds and the neurons within the brain, spinal cord or peripheral nerves.&lt;/p&gt;
+&lt;p&gt;With the goal of developing seamless interfaces between the prosthetic limbs and the injured nerves, we applied fiber fabrication to create light-weight fiber-based artificial muscles (&lt;a href=&#34;../../publication/kanik-2019-strain/&#34;&gt;Science 2019&lt;/a&gt;). These devices mimicking the structure of cucumber tendrils, are composed of bimorphs of an elastomer and a high-performance plastic with drastically different coefficients of thermal expansion that have been subjected to strains in excess of 700% to impart helical geometry. Upon an exposure to a moderate temperature increase (~10°C), these devices can respond with sub-second latencies lifting &amp;gt;600 times their weight.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

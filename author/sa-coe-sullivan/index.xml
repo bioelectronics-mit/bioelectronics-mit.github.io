@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SA Coe-Sullivan | Biolelectronics at MIT</title>
+    <link>/author/sa-coe-sullivan/</link>
+      <atom:link href="/author/sa-coe-sullivan/index.xml" rel="self" type="application/rss+xml" />
+    <description>SA Coe-Sullivan</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 12 Jun 2006 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo_hu824973b0e9eedfd7e339f3ab3f0c6ec4_36236_300x300_fit_lanczos_2.png</url>
+      <title>SA Coe-Sullivan</title>
+      <link>/author/sa-coe-sullivan/</link>
+    </image>
+    
+    <item>
+      <title>Photoluminescence of CdSe/ZnS core/shell quantum dots enhanced by energy transfer from a phosphorescent donor</title>
+      <link>/publication/anikeeva-2006-photoluminescence/</link>
+      <pubDate>Mon, 12 Jun 2006 00:00:00 +0000</pubDate>
+      <guid>/publication/anikeeva-2006-photoluminescence/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

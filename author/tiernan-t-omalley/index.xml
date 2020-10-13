@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tiernan T O&#39;Malley | Biolelectronics at MIT</title>
+    <link>/author/tiernan-t-omalley/</link>
+      <atom:link href="/author/tiernan-t-omalley/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tiernan T O&#39;Malley</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 19 Aug 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo_hu824973b0e9eedfd7e339f3ab3f0c6ec4_36236_300x300_fit_lanczos_2.png</url>
+      <title>Tiernan T O&#39;Malley</title>
+      <link>/author/tiernan-t-omalley/</link>
+    </image>
+    
+    <item>
+      <title>Targeted Magnetic Nanoparticles for Remote Magnetothermal Disruption of Amyloid-β Aggregates</title>
+      <link>/publication/loynachan-2015-targeted/</link>
+      <pubDate>Wed, 19 Aug 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/loynachan-2015-targeted/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Thomas Benavides | Biolelectronics at MIT</title>
+    <link>/author/thomas-benavides/</link>
+      <atom:link href="/author/thomas-benavides/index.xml" rel="self" type="application/rss+xml" />
+    <description>Thomas Benavides</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 12 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo_hu824973b0e9eedfd7e339f3ab3f0c6ec4_36236_300x300_fit_lanczos_2.png</url>
+      <title>Thomas Benavides</title>
+      <link>/author/thomas-benavides/</link>
+    </image>
+    
+    <item>
+      <title>Strain-programmable fiber-based artificial muscle</title>
+      <link>/publication/kanik-2019-strain/</link>
+      <pubDate>Fri, 12 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/kanik-2019-strain/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Artificial Muscles</title>
+      <link>/post/2019-artificial-muscles/</link>
+      <pubDate>Thu, 11 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>/post/2019-artificial-muscles/</guid>
+      <description>&lt;p&gt;MIT researchers, including professors Polina Anikeeva, Yoel Fink, and Cem Tasan, have developed a new fiber-based system that could be used as artificial muscles for robots, prosthetic limbs, or other mechanical and biomedical applications. Inspired by cucumber plants, which use their tightly-coiled tendrils to pull the plants upwards, this system utilizes a heat-activated coiling-and-pulling mechanism. Two materials that have different rates of thermal expansion are joined, causing the resulting fiber to form a tight coil with a surprisingly strong pulling force when even a small increase in temperature is applied. This process of contracting and expanding was shown in testing to maintain its strength even after repeating 10,000 times.&lt;/p&gt;
+&lt;p&gt;These fibers can span a wide range of sizes, and can easily be manufactured in batches up to hundreds of meters long. They are extremely lightweight and can respond quickly. Such fibers could be useful as actuators in robotic arms, legs, or grippers, as well as in prosthetic limbs, although postdoc Mehmet Kanik says that the possibilities for materials of this type are virtually limitless.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://news.mit.edu/2019/artificial-fiber-muscles-0711&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Read the full story&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

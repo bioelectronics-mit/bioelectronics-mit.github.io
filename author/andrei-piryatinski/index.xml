@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Andrei Piryatinski | Biolelectronics at MIT</title>
+    <link>/author/andrei-piryatinski/</link>
+      <atom:link href="/author/andrei-piryatinski/index.xml" rel="self" type="application/rss+xml" />
+    <description>Andrei Piryatinski</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 29 Jul 2004 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo_hu824973b0e9eedfd7e339f3ab3f0c6ec4_36236_300x300_fit_lanczos_2.png</url>
+      <title>Andrei Piryatinski</title>
+      <link>/author/andrei-piryatinski/</link>
+    </image>
+    
+    <item>
+      <title>Light amplification using inverted core/shell nanocrystals: towards lasing in the single-exciton regime</title>
+      <link>/publication/ivanov-2004-light/</link>
+      <pubDate>Thu, 29 Jul 2004 00:00:00 +0000</pubDate>
+      <guid>/publication/ivanov-2004-light/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

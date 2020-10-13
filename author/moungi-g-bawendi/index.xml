@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Moungi G Bawendi | Biolelectronics at MIT</title>
+    <link>/author/moungi-g-bawendi/</link>
+      <atom:link href="/author/moungi-g-bawendi/index.xml" rel="self" type="application/rss+xml" />
+    <description>Moungi G Bawendi</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2011 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo_hu824973b0e9eedfd7e339f3ab3f0c6ec4_36236_300x300_fit_lanczos_2.png</url>
+      <title>Moungi G Bawendi</title>
+      <link>/author/moungi-g-bawendi/</link>
+    </image>
+    
+    <item>
+      <title>Morphology of contact printed colloidal quantum dots in organic semiconductor films: Implications for QD-LEDs</title>
+      <link>/publication/aidala-2011-morphology/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/aidala-2011-morphology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nanoscale morphology revealed at the interface between colloidal quantum dots and organic semiconductor films</title>
+      <link>/publication/panzer-2010-nanoscale/</link>
+      <pubDate>Wed, 14 Jul 2010 00:00:00 +0000</pubDate>
+      <guid>/publication/panzer-2010-nanoscale/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quantum dot light-emitting devices with electroluminescence tunable over the entire visible spectrum</title>
+      <link>/publication/anikeeva-2009-quantum-dot/</link>
+      <pubDate>Wed, 08 Jul 2009 00:00:00 +0000</pubDate>
+      <guid>/publication/anikeeva-2009-quantum-dot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contact printing of quantum dot light-emitting devices</title>
+      <link>/publication/kim-2008-contact/</link>
+      <pubDate>Wed, 10 Dec 2008 00:00:00 +0000</pubDate>
+      <guid>/publication/kim-2008-contact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Electroluminescence from a mixed red- green- blue colloidal quantum dot monolayer</title>
+      <link>/publication/anikeeva-2007-electroluminescence/</link>
+      <pubDate>Sun, 08 Jul 2007 00:00:00 +0000</pubDate>
+      <guid>/publication/anikeeva-2007-electroluminescence/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Color-saturated green-emitting QD-LEDs</title>
+      <link>/publication/steckel-2006-color/</link>
+      <pubDate>Mon, 04 Sep 2006 00:00:00 +0000</pubDate>
+      <guid>/publication/steckel-2006-color/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
