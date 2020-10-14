@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Vittorio Caggiano | Biolelectronics at MIT</title>
-    <link>https://biolectronics-mit.github.io/author/vittorio-caggiano/</link>
-      <atom:link href="https://biolectronics-mit.github.io/author/vittorio-caggiano/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://bioelectronics-mit.github.io/author/vittorio-caggiano/</link>
+      <atom:link href="https://bioelectronics-mit.github.io/author/vittorio-caggiano/index.xml" rel="self" type="application/rss+xml" />
     <description>Vittorio Caggiano</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 26 Aug 2014 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://biolectronics-mit.github.io/images/logo_hu824973b0e9eedfd7e339f3ab3f0c6ec4_36236_300x300_fit_lanczos_2.png</url>
+      <url>https://bioelectronics-mit.github.io/images/logo_hu824973b0e9eedfd7e339f3ab3f0c6ec4_36236_300x300_fit_lanczos_2.png</url>
       <title>Vittorio Caggiano</title>
-      <link>https://biolectronics-mit.github.io/author/vittorio-caggiano/</link>
+      <link>https://bioelectronics-mit.github.io/author/vittorio-caggiano/</link>
     </image>
     
     <item>
       <title>Polymer fiber probes enable optical control of spinal cord and muscle function in vivo</title>
-      <link>https://biolectronics-mit.github.io/publication/lu-2014-polymer/</link>
+      <link>https://bioelectronics-mit.github.io/publication/lu-2014-polymer/</link>
       <pubDate>Tue, 26 Aug 2014 00:00:00 +0000</pubDate>
-      <guid>https://biolectronics-mit.github.io/publication/lu-2014-polymer/</guid>
+      <guid>https://bioelectronics-mit.github.io/publication/lu-2014-polymer/</guid>
       <description></description>
     </item>
     

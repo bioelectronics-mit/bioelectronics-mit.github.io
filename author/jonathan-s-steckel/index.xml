@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jonathan S Steckel | Biolelectronics at MIT</title>
-    <link>https://biolectronics-mit.github.io/author/jonathan-s-steckel/</link>
-      <atom:link href="https://biolectronics-mit.github.io/author/jonathan-s-steckel/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://bioelectronics-mit.github.io/author/jonathan-s-steckel/</link>
+      <atom:link href="https://bioelectronics-mit.github.io/author/jonathan-s-steckel/index.xml" rel="self" type="application/rss+xml" />
     <description>Jonathan S Steckel</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 10 Dec 2008 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://biolectronics-mit.github.io/images/logo_hu824973b0e9eedfd7e339f3ab3f0c6ec4_36236_300x300_fit_lanczos_2.png</url>
+      <url>https://bioelectronics-mit.github.io/images/logo_hu824973b0e9eedfd7e339f3ab3f0c6ec4_36236_300x300_fit_lanczos_2.png</url>
       <title>Jonathan S Steckel</title>
-      <link>https://biolectronics-mit.github.io/author/jonathan-s-steckel/</link>
+      <link>https://bioelectronics-mit.github.io/author/jonathan-s-steckel/</link>
     </image>
     
     <item>
       <title>Contact printing of quantum dot light-emitting devices</title>
-      <link>https://biolectronics-mit.github.io/publication/kim-2008-contact/</link>
+      <link>https://bioelectronics-mit.github.io/publication/kim-2008-contact/</link>
       <pubDate>Wed, 10 Dec 2008 00:00:00 +0000</pubDate>
-      <guid>https://biolectronics-mit.github.io/publication/kim-2008-contact/</guid>
+      <guid>https://bioelectronics-mit.github.io/publication/kim-2008-contact/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Color-saturated green-emitting QD-LEDs</title>
-      <link>https://biolectronics-mit.github.io/publication/steckel-2006-color/</link>
+      <link>https://bioelectronics-mit.github.io/publication/steckel-2006-color/</link>
       <pubDate>Mon, 04 Sep 2006 00:00:00 +0000</pubDate>
-      <guid>https://biolectronics-mit.github.io/publication/steckel-2006-color/</guid>
+      <guid>https://bioelectronics-mit.github.io/publication/steckel-2006-color/</guid>
       <description></description>
     </item>
     

@@ -2,53 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Karl Deisseroth | Biolelectronics at MIT</title>
-    <link>https://biolectronics-mit.github.io/author/karl-deisseroth/</link>
-      <atom:link href="https://biolectronics-mit.github.io/author/karl-deisseroth/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://bioelectronics-mit.github.io/author/karl-deisseroth/</link>
+      <atom:link href="https://bioelectronics-mit.github.io/author/karl-deisseroth/index.xml" rel="self" type="application/rss+xml" />
     <description>Karl Deisseroth</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 31 Oct 2013 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://biolectronics-mit.github.io/images/logo_hu824973b0e9eedfd7e339f3ab3f0c6ec4_36236_300x300_fit_lanczos_2.png</url>
+      <url>https://bioelectronics-mit.github.io/images/logo_hu824973b0e9eedfd7e339f3ab3f0c6ec4_36236_300x300_fit_lanczos_2.png</url>
       <title>Karl Deisseroth</title>
-      <link>https://biolectronics-mit.github.io/author/karl-deisseroth/</link>
+      <link>https://bioelectronics-mit.github.io/author/karl-deisseroth/</link>
     </image>
     
     <item>
       <title>Optical control of neuronal excitation and inhibition using a single opsin protein, ChR2</title>
-      <link>https://biolectronics-mit.github.io/publication/liske-2013-optical-control/</link>
+      <link>https://bioelectronics-mit.github.io/publication/liske-2013-optical-control/</link>
       <pubDate>Thu, 31 Oct 2013 00:00:00 +0000</pubDate>
-      <guid>https://biolectronics-mit.github.io/publication/liske-2013-optical-control/</guid>
+      <guid>https://bioelectronics-mit.github.io/publication/liske-2013-optical-control/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Optical inhibition of motor nerve and muscle activity in vivo</title>
-      <link>https://biolectronics-mit.github.io/publication/liske-2013-optical/</link>
+      <link>https://bioelectronics-mit.github.io/publication/liske-2013-optical/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>https://biolectronics-mit.github.io/publication/liske-2013-optical/</guid>
+      <guid>https://bioelectronics-mit.github.io/publication/liske-2013-optical/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Photothermal genetic engineering</title>
-      <link>https://biolectronics-mit.github.io/publication/anikeeva-2012-photothermal/</link>
+      <link>https://bioelectronics-mit.github.io/publication/anikeeva-2012-photothermal/</link>
       <pubDate>Tue, 25 Sep 2012 00:00:00 +0000</pubDate>
-      <guid>https://biolectronics-mit.github.io/publication/anikeeva-2012-photothermal/</guid>
+      <guid>https://bioelectronics-mit.github.io/publication/anikeeva-2012-photothermal/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Optetrode: a multichannel readout for optogenetic control in freely moving mice</title>
-      <link>https://biolectronics-mit.github.io/publication/anikeeva-2011-optetrode/</link>
+      <link>https://bioelectronics-mit.github.io/publication/anikeeva-2011-optetrode/</link>
       <pubDate>Sun, 04 Dec 2011 00:00:00 +0000</pubDate>
-      <guid>https://biolectronics-mit.github.io/publication/anikeeva-2011-optetrode/</guid>
+      <guid>https://bioelectronics-mit.github.io/publication/anikeeva-2011-optetrode/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cholinergic interneurons control local circuit activity and cocaine conditioning</title>
-      <link>https://biolectronics-mit.github.io/publication/witten-2010-cholinergic/</link>
+      <link>https://bioelectronics-mit.github.io/publication/witten-2010-cholinergic/</link>
       <pubDate>Fri, 17 Dec 2010 00:00:00 +0000</pubDate>
-      <guid>https://biolectronics-mit.github.io/publication/witten-2010-cholinergic/</guid>
+      <guid>https://bioelectronics-mit.github.io/publication/witten-2010-cholinergic/</guid>
       <description></description>
     </item>
     

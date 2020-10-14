@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Joseph H. Maalouf | Biolelectronics at MIT</title>
-    <link>https://biolectronics-mit.github.io/author/joseph-h.-maalouf/</link>
-      <atom:link href="https://biolectronics-mit.github.io/author/joseph-h.-maalouf/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://bioelectronics-mit.github.io/author/joseph-h.-maalouf/</link>
+      <atom:link href="https://bioelectronics-mit.github.io/author/joseph-h.-maalouf/index.xml" rel="self" type="application/rss+xml" />
     <description>Joseph H. Maalouf</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 06 Jul 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://biolectronics-mit.github.io/images/logo_hu824973b0e9eedfd7e339f3ab3f0c6ec4_36236_300x300_fit_lanczos_2.png</url>
+      <url>https://bioelectronics-mit.github.io/images/logo_hu824973b0e9eedfd7e339f3ab3f0c6ec4_36236_300x300_fit_lanczos_2.png</url>
       <title>Joseph H. Maalouf</title>
-      <link>https://biolectronics-mit.github.io/author/joseph-h.-maalouf/</link>
+      <link>https://bioelectronics-mit.github.io/author/joseph-h.-maalouf/</link>
     </image>
     
     <item>
       <title>Gaseous Messenger Molecule</title>
-      <link>https://biolectronics-mit.github.io/post/2020-gaseous-messenger-molecule/</link>
+      <link>https://bioelectronics-mit.github.io/post/2020-gaseous-messenger-molecule/</link>
       <pubDate>Mon, 06 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://biolectronics-mit.github.io/post/2020-gaseous-messenger-molecule/</guid>
+      <guid>https://bioelectronics-mit.github.io/post/2020-gaseous-messenger-molecule/</guid>
       <description>&lt;p&gt;Nitric oxide is an important signaling molecule in the body, with a role in building nervous system connections that contribute to learning and memory. It also functions as a messenger in the cardiovascular and immune systems.&lt;/p&gt;
 &lt;p&gt;But it has been difficult for researchers to study exactly what its role is in these systems and how it functions. Because it is a gas, there has been no practical way to direct it to specific individual cells in order to observe its effects. Now, a team of scientists and engineers at MIT and elsewhere has found a way of generating the gas at precisely targeted locations inside the body, potentially opening new lines of research on this essential molecule’s effects.&lt;/p&gt;
 &lt;p&gt;The findings are reported today in the journal Nature Nanotechnology, in a paper by MIT professors Polina Anikeeva, Karthish Manthiram, and Yoel Fink; graduate student Jimin Park; postdoc Kyoungsuk Jin; and 10 others at MIT and in Taiwan, Japan, and Israel.&lt;/p&gt;
@@ -26,9 +26,9 @@
     
     <item>
       <title>In situ electrochemical generation of nitric oxide for neuronal modulation</title>
-      <link>https://biolectronics-mit.github.io/publication/park-2020-in-situ/</link>
+      <link>https://bioelectronics-mit.github.io/publication/park-2020-in-situ/</link>
       <pubDate>Mon, 29 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>https://biolectronics-mit.github.io/publication/park-2020-in-situ/</guid>
+      <guid>https://bioelectronics-mit.github.io/publication/park-2020-in-situ/</guid>
       <description></description>
     </item>
     

@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Thomas J Richner | Biolelectronics at MIT</title>
-    <link>https://biolectronics-mit.github.io/author/thomas-j-richner/</link>
-      <atom:link href="https://biolectronics-mit.github.io/author/thomas-j-richner/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://bioelectronics-mit.github.io/author/thomas-j-richner/</link>
+      <atom:link href="https://bioelectronics-mit.github.io/author/thomas-j-richner/index.xml" rel="self" type="application/rss+xml" />
     <description>Thomas J Richner</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 29 Mar 2017 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://biolectronics-mit.github.io/images/logo_hu824973b0e9eedfd7e339f3ab3f0c6ec4_36236_300x300_fit_lanczos_2.png</url>
+      <url>https://bioelectronics-mit.github.io/images/logo_hu824973b0e9eedfd7e339f3ab3f0c6ec4_36236_300x300_fit_lanczos_2.png</url>
       <title>Thomas J Richner</title>
-      <link>https://biolectronics-mit.github.io/author/thomas-j-richner/</link>
+      <link>https://bioelectronics-mit.github.io/author/thomas-j-richner/</link>
     </image>
     
     <item>
       <title>Flexible and stretchable nanowire-coated fibers for optoelectronic probing of spinal cord circuits</title>
-      <link>https://biolectronics-mit.github.io/publication/lu-2017-flexible/</link>
+      <link>https://bioelectronics-mit.github.io/publication/lu-2017-flexible/</link>
       <pubDate>Wed, 29 Mar 2017 00:00:00 +0000</pubDate>
-      <guid>https://biolectronics-mit.github.io/publication/lu-2017-flexible/</guid>
+      <guid>https://bioelectronics-mit.github.io/publication/lu-2017-flexible/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Optogenetic brain interfaces</title>
-      <link>https://biolectronics-mit.github.io/publication/pashaie-2013-optogenetic/</link>
+      <link>https://bioelectronics-mit.github.io/publication/pashaie-2013-optogenetic/</link>
       <pubDate>Thu, 12 Dec 2013 00:00:00 +0000</pubDate>
-      <guid>https://biolectronics-mit.github.io/publication/pashaie-2013-optogenetic/</guid>
+      <guid>https://bioelectronics-mit.github.io/publication/pashaie-2013-optogenetic/</guid>
       <description></description>
     </item>
     

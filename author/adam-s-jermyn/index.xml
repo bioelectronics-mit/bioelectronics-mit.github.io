@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Adam S Jermyn | Biolelectronics at MIT</title>
-    <link>https://biolectronics-mit.github.io/author/adam-s-jermyn/</link>
-      <atom:link href="https://biolectronics-mit.github.io/author/adam-s-jermyn/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://bioelectronics-mit.github.io/author/adam-s-jermyn/</link>
+      <atom:link href="https://bioelectronics-mit.github.io/author/adam-s-jermyn/index.xml" rel="self" type="application/rss+xml" />
     <description>Adam S Jermyn</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 18 Sep 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://biolectronics-mit.github.io/images/logo_hu824973b0e9eedfd7e339f3ab3f0c6ec4_36236_300x300_fit_lanczos_2.png</url>
+      <url>https://bioelectronics-mit.github.io/images/logo_hu824973b0e9eedfd7e339f3ab3f0c6ec4_36236_300x300_fit_lanczos_2.png</url>
       <title>Adam S Jermyn</title>
-      <link>https://biolectronics-mit.github.io/author/adam-s-jermyn/</link>
+      <link>https://bioelectronics-mit.github.io/author/adam-s-jermyn/</link>
     </image>
     
     <item>
       <title>Electron hydrodynamics in anisotropic materials</title>
-      <link>https://biolectronics-mit.github.io/publication/varnavides-2020-generalized/</link>
+      <link>https://bioelectronics-mit.github.io/publication/varnavides-2020-generalized/</link>
       <pubDate>Fri, 18 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>https://biolectronics-mit.github.io/publication/varnavides-2020-generalized/</guid>
+      <guid>https://bioelectronics-mit.github.io/publication/varnavides-2020-generalized/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Nonequilibrium phonon transport across nanoscale interfaces</title>
-      <link>https://biolectronics-mit.github.io/publication/varnavides-2019-nonequilibrium/</link>
+      <link>https://bioelectronics-mit.github.io/publication/varnavides-2019-nonequilibrium/</link>
       <pubDate>Tue, 03 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://biolectronics-mit.github.io/publication/varnavides-2019-nonequilibrium/</guid>
+      <guid>https://bioelectronics-mit.github.io/publication/varnavides-2019-nonequilibrium/</guid>
       <description></description>
     </item>
     

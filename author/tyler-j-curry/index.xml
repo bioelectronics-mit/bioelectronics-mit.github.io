@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tyler J Curry | Biolelectronics at MIT</title>
-    <link>https://biolectronics-mit.github.io/author/tyler-j-curry/</link>
-      <atom:link href="https://biolectronics-mit.github.io/author/tyler-j-curry/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://bioelectronics-mit.github.io/author/tyler-j-curry/</link>
+      <atom:link href="https://bioelectronics-mit.github.io/author/tyler-j-curry/index.xml" rel="self" type="application/rss+xml" />
     <description>Tyler J Curry</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
     <image>
-      <url>https://biolectronics-mit.github.io/images/logo_hu824973b0e9eedfd7e339f3ab3f0c6ec4_36236_300x300_fit_lanczos_2.png</url>
+      <url>https://bioelectronics-mit.github.io/images/logo_hu824973b0e9eedfd7e339f3ab3f0c6ec4_36236_300x300_fit_lanczos_2.png</url>
       <title>Tyler J Curry</title>
-      <link>https://biolectronics-mit.github.io/author/tyler-j-curry/</link>
+      <link>https://bioelectronics-mit.github.io/author/tyler-j-curry/</link>
     </image>
     
   </channel>

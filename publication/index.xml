@@ -2,565 +2,565 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications | Biolelectronics at MIT</title>
-    <link>https://biolectronics-mit.github.io/publication/</link>
-      <atom:link href="https://biolectronics-mit.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://bioelectronics-mit.github.io/publication/</link>
+      <atom:link href="https://bioelectronics-mit.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 18 Sep 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://biolectronics-mit.github.io/images/logo_hu824973b0e9eedfd7e339f3ab3f0c6ec4_36236_300x300_fit_lanczos_2.png</url>
+      <url>https://bioelectronics-mit.github.io/images/logo_hu824973b0e9eedfd7e339f3ab3f0c6ec4_36236_300x300_fit_lanczos_2.png</url>
       <title>Publications</title>
-      <link>https://biolectronics-mit.github.io/publication/</link>
+      <link>https://bioelectronics-mit.github.io/publication/</link>
     </image>
     
     <item>
       <title>Electron hydrodynamics in anisotropic materials</title>
-      <link>https://biolectronics-mit.github.io/publication/varnavides-2020-generalized/</link>
+      <link>https://bioelectronics-mit.github.io/publication/varnavides-2020-generalized/</link>
       <pubDate>Fri, 18 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>https://biolectronics-mit.github.io/publication/varnavides-2020-generalized/</guid>
+      <guid>https://bioelectronics-mit.github.io/publication/varnavides-2020-generalized/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Imaging phonon-mediated hydrodynamic flow in WTe2 with cryogenic quantum magnetometry</title>
-      <link>https://biolectronics-mit.github.io/publication/varnavides-2020-imaging/</link>
+      <link>https://bioelectronics-mit.github.io/publication/varnavides-2020-imaging/</link>
       <pubDate>Wed, 09 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>https://biolectronics-mit.github.io/publication/varnavides-2020-imaging/</guid>
+      <guid>https://bioelectronics-mit.github.io/publication/varnavides-2020-imaging/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Direct Imaging and Electronic Structure Modulation of Double Moiré Superlattices at the 2D/3D Interface</title>
-      <link>https://biolectronics-mit.github.io/publication/varnavides-2020-direct/</link>
+      <link>https://bioelectronics-mit.github.io/publication/varnavides-2020-direct/</link>
       <pubDate>Thu, 27 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>https://biolectronics-mit.github.io/publication/varnavides-2020-direct/</guid>
+      <guid>https://bioelectronics-mit.github.io/publication/varnavides-2020-direct/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Remotely controlled proton generation for neuromodulation</title>
-      <link>https://biolectronics-mit.github.io/publication/park-2020-remotely/</link>
+      <link>https://bioelectronics-mit.github.io/publication/park-2020-remotely/</link>
       <pubDate>Mon, 10 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>https://biolectronics-mit.github.io/publication/park-2020-remotely/</guid>
+      <guid>https://bioelectronics-mit.github.io/publication/park-2020-remotely/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Magnetothermal Multiplexing for Selective Remote Control of Cell Signaling</title>
-      <link>https://biolectronics-mit.github.io/publication/moon-2020-magneothermal/</link>
+      <link>https://bioelectronics-mit.github.io/publication/moon-2020-magneothermal/</link>
       <pubDate>Fri, 10 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://biolectronics-mit.github.io/publication/moon-2020-magneothermal/</guid>
+      <guid>https://bioelectronics-mit.github.io/publication/moon-2020-magneothermal/</guid>
       <description></description>
     </item>
     
     <item>
       <title>In situ electrochemical generation of nitric oxide for neuronal modulation</title>
-      <link>https://biolectronics-mit.github.io/publication/park-2020-in-situ/</link>
+      <link>https://bioelectronics-mit.github.io/publication/park-2020-in-situ/</link>
       <pubDate>Mon, 29 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>https://biolectronics-mit.github.io/publication/park-2020-in-situ/</guid>
+      <guid>https://bioelectronics-mit.github.io/publication/park-2020-in-situ/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Applying support-vector machine learning algorithms toward predicting host-guest interactions with cucurbit[7]uril</title>
-      <link>https://biolectronics-mit.github.io/publication/tabet-2019-predicting/</link>
+      <link>https://bioelectronics-mit.github.io/publication/tabet-2019-predicting/</link>
       <pubDate>Mon, 22 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>https://biolectronics-mit.github.io/publication/tabet-2019-predicting/</guid>
+      <guid>https://bioelectronics-mit.github.io/publication/tabet-2019-predicting/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Magnetic Vortex Nanodiscs Enable Remote Magnetomechanical Neural Stimulation</title>
-      <link>https://biolectronics-mit.github.io/publication/gregurec-2019-tuning/</link>
+      <link>https://bioelectronics-mit.github.io/publication/gregurec-2019-tuning/</link>
       <pubDate>Fri, 19 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>https://biolectronics-mit.github.io/publication/gregurec-2019-tuning/</guid>
+      <guid>https://bioelectronics-mit.github.io/publication/gregurec-2019-tuning/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Functionally Distinct Neuronal Ensembles within the Memory Engram</title>
-      <link>https://biolectronics-mit.github.io/publication/sun-2020-functionally/</link>
+      <link>https://bioelectronics-mit.github.io/publication/sun-2020-functionally/</link>
       <pubDate>Thu, 16 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>https://biolectronics-mit.github.io/publication/sun-2020-functionally/</guid>
+      <guid>https://bioelectronics-mit.github.io/publication/sun-2020-functionally/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Transgene-free remote magnetothermal regulation of adrenal hormones</title>
-      <link>https://biolectronics-mit.github.io/publication/rosenfeld-2020-transgene/</link>
+      <link>https://bioelectronics-mit.github.io/publication/rosenfeld-2020-transgene/</link>
       <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>https://biolectronics-mit.github.io/publication/rosenfeld-2020-transgene/</guid>
+      <guid>https://bioelectronics-mit.github.io/publication/rosenfeld-2020-transgene/</guid>
       <description></description>
     </item>
     
     <item>
       <title>In vivo photopharmacology enabled by multifunctional fibers</title>
-      <link>https://biolectronics-mit.github.io/publication/frank-2020-vivo/</link>
+      <link>https://bioelectronics-mit.github.io/publication/frank-2020-vivo/</link>
       <pubDate>Fri, 20 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>https://biolectronics-mit.github.io/publication/frank-2020-vivo/</guid>
+      <guid>https://bioelectronics-mit.github.io/publication/frank-2020-vivo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A gut sensor for sugar preference</title>
-      <link>https://biolectronics-mit.github.io/publication/buchanan-2020-gut/</link>
+      <link>https://bioelectronics-mit.github.io/publication/buchanan-2020-gut/</link>
       <pubDate>Sun, 08 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>https://biolectronics-mit.github.io/publication/buchanan-2020-gut/</guid>
+      <guid>https://bioelectronics-mit.github.io/publication/buchanan-2020-gut/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Polymer-fiber-coupled field-effect sensors for label-free deep brain recordings</title>
-      <link>https://biolectronics-mit.github.io/publication/guo-2020-polymer/</link>
+      <link>https://bioelectronics-mit.github.io/publication/guo-2020-polymer/</link>
       <pubDate>Fri, 24 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://biolectronics-mit.github.io/publication/guo-2020-polymer/</guid>
+      <guid>https://bioelectronics-mit.github.io/publication/guo-2020-polymer/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Voices in methods development</title>
-      <link>https://biolectronics-mit.github.io/publication/anikeeva-2019-voices/</link>
+      <link>https://bioelectronics-mit.github.io/publication/anikeeva-2019-voices/</link>
       <pubDate>Fri, 27 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://biolectronics-mit.github.io/publication/anikeeva-2019-voices/</guid>
+      <guid>https://bioelectronics-mit.github.io/publication/anikeeva-2019-voices/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Nonequilibrium phonon transport across nanoscale interfaces</title>
-      <link>https://biolectronics-mit.github.io/publication/varnavides-2019-nonequilibrium/</link>
+      <link>https://bioelectronics-mit.github.io/publication/varnavides-2019-nonequilibrium/</link>
       <pubDate>Tue, 03 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://biolectronics-mit.github.io/publication/varnavides-2019-nonequilibrium/</guid>
+      <guid>https://bioelectronics-mit.github.io/publication/varnavides-2019-nonequilibrium/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Remotely controlled chemomagnetic modulation of targeted neural circuits</title>
-      <link>https://biolectronics-mit.github.io/publication/rao-2019-remotely/</link>
+      <link>https://bioelectronics-mit.github.io/publication/rao-2019-remotely/</link>
       <pubDate>Mon, 19 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>https://biolectronics-mit.github.io/publication/rao-2019-remotely/</guid>
+      <guid>https://bioelectronics-mit.github.io/publication/rao-2019-remotely/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Next-generation interfaces for studying neural function</title>
-      <link>https://biolectronics-mit.github.io/publication/frank-2019-next/</link>
+      <link>https://bioelectronics-mit.github.io/publication/frank-2019-next/</link>
       <pubDate>Mon, 12 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>https://biolectronics-mit.github.io/publication/frank-2019-next/</guid>
+      <guid>https://bioelectronics-mit.github.io/publication/frank-2019-next/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Strain-programmable fiber-based artificial muscle</title>
-      <link>https://biolectronics-mit.github.io/publication/kanik-2019-strain/</link>
+      <link>https://bioelectronics-mit.github.io/publication/kanik-2019-strain/</link>
       <pubDate>Fri, 12 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>https://biolectronics-mit.github.io/publication/kanik-2019-strain/</guid>
+      <guid>https://bioelectronics-mit.github.io/publication/kanik-2019-strain/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Scalable Fabrication of Porous Microchannel Nerve Guidance Scaffolds with Complex Geometries</title>
-      <link>https://biolectronics-mit.github.io/publication/shahriari-2019-scalable/</link>
+      <link>https://bioelectronics-mit.github.io/publication/shahriari-2019-scalable/</link>
       <pubDate>Thu, 06 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>https://biolectronics-mit.github.io/publication/shahriari-2019-scalable/</guid>
+      <guid>https://bioelectronics-mit.github.io/publication/shahriari-2019-scalable/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Progress in neuromodulation of the brain; a role for magnetic nanoparticles?</title>
-      <link>https://biolectronics-mit.github.io/publication/roet-2019-progress/</link>
+      <link>https://bioelectronics-mit.github.io/publication/roet-2019-progress/</link>
       <pubDate>Wed, 13 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://biolectronics-mit.github.io/publication/roet-2019-progress/</guid>
+      <guid>https://bioelectronics-mit.github.io/publication/roet-2019-progress/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Flexible fiber-based optoelectronics for neural interfaces</title>
-      <link>https://biolectronics-mit.github.io/publication/park-2019-flexible/</link>
+      <link>https://bioelectronics-mit.github.io/publication/park-2019-flexible/</link>
       <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://biolectronics-mit.github.io/publication/park-2019-flexible/</guid>
+      <guid>https://bioelectronics-mit.github.io/publication/park-2019-flexible/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Optogenetic surface stimulation of the rat cervical spinal cord</title>
-      <link>https://biolectronics-mit.github.io/publication/mondello-2018-optogenetic/</link>
+      <link>https://bioelectronics-mit.github.io/publication/mondello-2018-optogenetic/</link>
       <pubDate>Wed, 15 Aug 2018 00:00:00 +0000</pubDate>
-      <guid>https://biolectronics-mit.github.io/publication/mondello-2018-optogenetic/</guid>
+      <guid>https://bioelectronics-mit.github.io/publication/mondello-2018-optogenetic/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Optogenetic entrainment of neural oscillations with hybrid fiber probes</title>
-      <link>https://biolectronics-mit.github.io/publication/kilias-2018-optogenetic/</link>
+      <link>https://bioelectronics-mit.github.io/publication/kilias-2018-optogenetic/</link>
       <pubDate>Wed, 11 Jul 2018 00:00:00 +0000</pubDate>
-      <guid>https://biolectronics-mit.github.io/publication/kilias-2018-optogenetic/</guid>
+      <guid>https://bioelectronics-mit.github.io/publication/kilias-2018-optogenetic/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Silicon biointerfaces for all scales</title>
-      <link>https://biolectronics-mit.github.io/publication/park-2018-silicon/</link>
+      <link>https://bioelectronics-mit.github.io/publication/park-2018-silicon/</link>
       <pubDate>Mon, 11 Jun 2018 00:00:00 +0000</pubDate>
-      <guid>https://biolectronics-mit.github.io/publication/park-2018-silicon/</guid>
+      <guid>https://bioelectronics-mit.github.io/publication/park-2018-silicon/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Creating Functional Interfaces with Biological Circuits</title>
-      <link>https://biolectronics-mit.github.io/publication/anikeeva-2018-creating/</link>
+      <link>https://bioelectronics-mit.github.io/publication/anikeeva-2018-creating/</link>
       <pubDate>Tue, 15 May 2018 00:00:00 +0000</pubDate>
-      <guid>https://biolectronics-mit.github.io/publication/anikeeva-2018-creating/</guid>
+      <guid>https://bioelectronics-mit.github.io/publication/anikeeva-2018-creating/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Editorial overview: Neurotechnologies.</title>
-      <link>https://biolectronics-mit.github.io/publication/anikeeva-2018-editorial/</link>
+      <link>https://bioelectronics-mit.github.io/publication/anikeeva-2018-editorial/</link>
       <pubDate>Thu, 10 May 2018 00:00:00 +0000</pubDate>
-      <guid>https://biolectronics-mit.github.io/publication/anikeeva-2018-editorial/</guid>
+      <guid>https://bioelectronics-mit.github.io/publication/anikeeva-2018-editorial/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Visions for the Future of Neuroscience</title>
-      <link>https://biolectronics-mit.github.io/publication/moore-2018-visions/</link>
+      <link>https://bioelectronics-mit.github.io/publication/moore-2018-visions/</link>
       <pubDate>Wed, 02 May 2018 00:00:00 +0000</pubDate>
-      <guid>https://biolectronics-mit.github.io/publication/moore-2018-visions/</guid>
+      <guid>https://bioelectronics-mit.github.io/publication/moore-2018-visions/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Multifunctional fibers as tools for neuroscience and neuroengineering</title>
-      <link>https://biolectronics-mit.github.io/publication/canales-2018-multifunctional/</link>
+      <link>https://bioelectronics-mit.github.io/publication/canales-2018-multifunctional/</link>
       <pubDate>Wed, 21 Mar 2018 00:00:00 +0000</pubDate>
-      <guid>https://biolectronics-mit.github.io/publication/canales-2018-multifunctional/</guid>
+      <guid>https://bioelectronics-mit.github.io/publication/canales-2018-multifunctional/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Roadmap on semiconductor--cell biointerfaces</title>
-      <link>https://biolectronics-mit.github.io/publication/tian-2018-roadmap/</link>
+      <link>https://bioelectronics-mit.github.io/publication/tian-2018-roadmap/</link>
       <pubDate>Fri, 09 Mar 2018 00:00:00 +0000</pubDate>
-      <guid>https://biolectronics-mit.github.io/publication/tian-2018-roadmap/</guid>
+      <guid>https://bioelectronics-mit.github.io/publication/tian-2018-roadmap/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Practical methods for generating alternating magnetic fields for biomedical research</title>
-      <link>https://biolectronics-mit.github.io/publication/christiansen-2017-practical/</link>
+      <link>https://bioelectronics-mit.github.io/publication/christiansen-2017-practical/</link>
       <pubDate>Tue, 22 Aug 2017 00:00:00 +0000</pubDate>
-      <guid>https://biolectronics-mit.github.io/publication/christiansen-2017-practical/</guid>
+      <guid>https://bioelectronics-mit.github.io/publication/christiansen-2017-practical/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Flexible and stretchable nanowire-coated fibers for optoelectronic probing of spinal cord circuits</title>
-      <link>https://biolectronics-mit.github.io/publication/lu-2017-flexible/</link>
+      <link>https://bioelectronics-mit.github.io/publication/lu-2017-flexible/</link>
       <pubDate>Wed, 29 Mar 2017 00:00:00 +0000</pubDate>
-      <guid>https://biolectronics-mit.github.io/publication/lu-2017-flexible/</guid>
+      <guid>https://bioelectronics-mit.github.io/publication/lu-2017-flexible/</guid>
       <description></description>
     </item>
     
     <item>
       <title>One-step optogenetics with multifunctional flexible polymer fibers</title>
-      <link>https://biolectronics-mit.github.io/publication/park-2017-one/</link>
+      <link>https://bioelectronics-mit.github.io/publication/park-2017-one/</link>
       <pubDate>Mon, 20 Feb 2017 00:00:00 +0000</pubDate>
-      <guid>https://biolectronics-mit.github.io/publication/park-2017-one/</guid>
+      <guid>https://bioelectronics-mit.github.io/publication/park-2017-one/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Neural recording and modulation technologies</title>
-      <link>https://biolectronics-mit.github.io/publication/chen-2017-neural/</link>
+      <link>https://bioelectronics-mit.github.io/publication/chen-2017-neural/</link>
       <pubDate>Wed, 04 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://biolectronics-mit.github.io/publication/chen-2017-neural/</guid>
+      <guid>https://bioelectronics-mit.github.io/publication/chen-2017-neural/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Magnetically actuated protease sensors for in vivo tumor profiling</title>
-      <link>https://biolectronics-mit.github.io/publication/schuerle-2016-magnetically/</link>
+      <link>https://bioelectronics-mit.github.io/publication/schuerle-2016-magnetically/</link>
       <pubDate>Tue, 13 Sep 2016 00:00:00 +0000</pubDate>
-      <guid>https://biolectronics-mit.github.io/publication/schuerle-2016-magnetically/</guid>
+      <guid>https://bioelectronics-mit.github.io/publication/schuerle-2016-magnetically/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Magnetogenetics: Problems on the back of an envelope</title>
-      <link>https://biolectronics-mit.github.io/publication/anikeeva-2016-magnetogenetics/</link>
+      <link>https://bioelectronics-mit.github.io/publication/anikeeva-2016-magnetogenetics/</link>
       <pubDate>Thu, 08 Sep 2016 00:00:00 +0000</pubDate>
-      <guid>https://biolectronics-mit.github.io/publication/anikeeva-2016-magnetogenetics/</guid>
+      <guid>https://bioelectronics-mit.github.io/publication/anikeeva-2016-magnetogenetics/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ion-switchable quantum dot Forster resonance energy transfer rates in ratiometric potassium sensors</title>
-      <link>https://biolectronics-mit.github.io/publication/ruckh-2016-ion/</link>
+      <link>https://bioelectronics-mit.github.io/publication/ruckh-2016-ion/</link>
       <pubDate>Mon, 18 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://biolectronics-mit.github.io/publication/ruckh-2016-ion/</guid>
+      <guid>https://bioelectronics-mit.github.io/publication/ruckh-2016-ion/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Thermally drawn fibers as nerve guidance scaffolds</title>
-      <link>https://biolectronics-mit.github.io/publication/koppes-2016-thermally/</link>
+      <link>https://bioelectronics-mit.github.io/publication/koppes-2016-thermally/</link>
       <pubDate>Tue, 01 Mar 2016 00:00:00 +0000</pubDate>
-      <guid>https://biolectronics-mit.github.io/publication/koppes-2016-thermally/</guid>
+      <guid>https://bioelectronics-mit.github.io/publication/koppes-2016-thermally/</guid>
       <description></description>
     </item>
     
     <item>
       <title>High-performance ferrite nanoparticles through nonaqueous redox phase tuning</title>
-      <link>https://biolectronics-mit.github.io/publication/chen-2016-high/</link>
+      <link>https://bioelectronics-mit.github.io/publication/chen-2016-high/</link>
       <pubDate>Wed, 10 Feb 2016 00:00:00 +0000</pubDate>
-      <guid>https://biolectronics-mit.github.io/publication/chen-2016-high/</guid>
+      <guid>https://bioelectronics-mit.github.io/publication/chen-2016-high/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Localized excitation of neural activity via rapid magnetothermal drug release</title>
-      <link>https://biolectronics-mit.github.io/publication/romero-2016-localized/</link>
+      <link>https://bioelectronics-mit.github.io/publication/romero-2016-localized/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://biolectronics-mit.github.io/publication/romero-2016-localized/</guid>
+      <guid>https://bioelectronics-mit.github.io/publication/romero-2016-localized/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Optogenetics unleashed</title>
-      <link>https://biolectronics-mit.github.io/publication/anikeeva-2016-optogenetics/</link>
+      <link>https://bioelectronics-mit.github.io/publication/anikeeva-2016-optogenetics/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://biolectronics-mit.github.io/publication/anikeeva-2016-optogenetics/</guid>
+      <guid>https://bioelectronics-mit.github.io/publication/anikeeva-2016-optogenetics/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Engineering intracellular biomineralization and biosensing by a magnetic protein</title>
-      <link>https://biolectronics-mit.github.io/publication/matsumoto-2015-engineering/</link>
+      <link>https://bioelectronics-mit.github.io/publication/matsumoto-2015-engineering/</link>
       <pubDate>Mon, 02 Nov 2015 00:00:00 +0000</pubDate>
-      <guid>https://biolectronics-mit.github.io/publication/matsumoto-2015-engineering/</guid>
+      <guid>https://bioelectronics-mit.github.io/publication/matsumoto-2015-engineering/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Restoring the sense of touch</title>
-      <link>https://biolectronics-mit.github.io/publication/anikeeva-2015-restoring/</link>
+      <link>https://bioelectronics-mit.github.io/publication/anikeeva-2015-restoring/</link>
       <pubDate>Fri, 16 Oct 2015 00:00:00 +0000</pubDate>
-      <guid>https://biolectronics-mit.github.io/publication/anikeeva-2015-restoring/</guid>
+      <guid>https://bioelectronics-mit.github.io/publication/anikeeva-2015-restoring/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Remote-controlled mice</title>
-      <link>https://biolectronics-mit.github.io/publication/anikeeva-2015-remote/</link>
+      <link>https://bioelectronics-mit.github.io/publication/anikeeva-2015-remote/</link>
       <pubDate>Wed, 26 Aug 2015 00:00:00 +0000</pubDate>
-      <guid>https://biolectronics-mit.github.io/publication/anikeeva-2015-remote/</guid>
+      <guid>https://bioelectronics-mit.github.io/publication/anikeeva-2015-remote/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Targeted Magnetic Nanoparticles for Remote Magnetothermal Disruption of Amyloid-β Aggregates</title>
-      <link>https://biolectronics-mit.github.io/publication/loynachan-2015-targeted/</link>
+      <link>https://bioelectronics-mit.github.io/publication/loynachan-2015-targeted/</link>
       <pubDate>Wed, 19 Aug 2015 00:00:00 +0000</pubDate>
-      <guid>https://biolectronics-mit.github.io/publication/loynachan-2015-targeted/</guid>
+      <guid>https://bioelectronics-mit.github.io/publication/loynachan-2015-targeted/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Optogenetic control of nerve growth</title>
-      <link>https://biolectronics-mit.github.io/publication/park-2015-optogenetic/</link>
+      <link>https://bioelectronics-mit.github.io/publication/park-2015-optogenetic/</link>
       <pubDate>Mon, 18 May 2015 00:00:00 +0000</pubDate>
-      <guid>https://biolectronics-mit.github.io/publication/park-2015-optogenetic/</guid>
+      <guid>https://bioelectronics-mit.github.io/publication/park-2015-optogenetic/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Wireless magnetothermal deep brain stimulation</title>
-      <link>https://biolectronics-mit.github.io/publication/chen-2015-wireless/</link>
+      <link>https://bioelectronics-mit.github.io/publication/chen-2015-wireless/</link>
       <pubDate>Fri, 27 Mar 2015 00:00:00 +0000</pubDate>
-      <guid>https://biolectronics-mit.github.io/publication/chen-2015-wireless/</guid>
+      <guid>https://bioelectronics-mit.github.io/publication/chen-2015-wireless/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Multifunctional fibers for simultaneous optical, electrical and chemical interrogation of neural circuits in vivo</title>
-      <link>https://biolectronics-mit.github.io/publication/canales-2015-multifunctional/</link>
+      <link>https://bioelectronics-mit.github.io/publication/canales-2015-multifunctional/</link>
       <pubDate>Mon, 19 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>https://biolectronics-mit.github.io/publication/canales-2015-multifunctional/</guid>
+      <guid>https://bioelectronics-mit.github.io/publication/canales-2015-multifunctional/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Polymer fiber probes enable optical control of spinal cord and muscle function in vivo</title>
-      <link>https://biolectronics-mit.github.io/publication/lu-2014-polymer/</link>
+      <link>https://bioelectronics-mit.github.io/publication/lu-2014-polymer/</link>
       <pubDate>Tue, 26 Aug 2014 00:00:00 +0000</pubDate>
-      <guid>https://biolectronics-mit.github.io/publication/lu-2014-polymer/</guid>
+      <guid>https://bioelectronics-mit.github.io/publication/lu-2014-polymer/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Natural neural projection dynamics underlying social behavior</title>
-      <link>https://biolectronics-mit.github.io/publication/gunaydin-2014-natural/</link>
+      <link>https://bioelectronics-mit.github.io/publication/gunaydin-2014-natural/</link>
       <pubDate>Thu, 19 Jun 2014 00:00:00 +0000</pubDate>
-      <guid>https://biolectronics-mit.github.io/publication/gunaydin-2014-natural/</guid>
+      <guid>https://bioelectronics-mit.github.io/publication/gunaydin-2014-natural/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Bioelectronic medicines: a research roadmap</title>
-      <link>https://biolectronics-mit.github.io/publication/birmingham-2014-bioelectronic/</link>
+      <link>https://bioelectronics-mit.github.io/publication/birmingham-2014-bioelectronic/</link>
       <pubDate>Fri, 30 May 2014 00:00:00 +0000</pubDate>
-      <guid>https://biolectronics-mit.github.io/publication/birmingham-2014-bioelectronic/</guid>
+      <guid>https://bioelectronics-mit.github.io/publication/birmingham-2014-bioelectronic/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Magnetically multiplexed heating of single domain nanoparticles</title>
-      <link>https://biolectronics-mit.github.io/publication/christiansen-2014-magnetically/</link>
+      <link>https://bioelectronics-mit.github.io/publication/christiansen-2014-magnetically/</link>
       <pubDate>Mon, 26 May 2014 00:00:00 +0000</pubDate>
-      <guid>https://biolectronics-mit.github.io/publication/christiansen-2014-magnetically/</guid>
+      <guid>https://bioelectronics-mit.github.io/publication/christiansen-2014-magnetically/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Optogenetic brain interfaces</title>
-      <link>https://biolectronics-mit.github.io/publication/pashaie-2013-optogenetic/</link>
+      <link>https://bioelectronics-mit.github.io/publication/pashaie-2013-optogenetic/</link>
       <pubDate>Thu, 12 Dec 2013 00:00:00 +0000</pubDate>
-      <guid>https://biolectronics-mit.github.io/publication/pashaie-2013-optogenetic/</guid>
+      <guid>https://bioelectronics-mit.github.io/publication/pashaie-2013-optogenetic/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Optical control of neuronal excitation and inhibition using a single opsin protein, ChR2</title>
-      <link>https://biolectronics-mit.github.io/publication/liske-2013-optical-control/</link>
+      <link>https://bioelectronics-mit.github.io/publication/liske-2013-optical-control/</link>
       <pubDate>Thu, 31 Oct 2013 00:00:00 +0000</pubDate>
-      <guid>https://biolectronics-mit.github.io/publication/liske-2013-optical-control/</guid>
+      <guid>https://bioelectronics-mit.github.io/publication/liske-2013-optical-control/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Maximizing hysteretic losses in magnetic ferrite nanoparticles via model-driven synthesis and materials optimization</title>
-      <link>https://biolectronics-mit.github.io/publication/chen-2013-maximizing/</link>
+      <link>https://bioelectronics-mit.github.io/publication/chen-2013-maximizing/</link>
       <pubDate>Tue, 22 Oct 2013 00:00:00 +0000</pubDate>
-      <guid>https://biolectronics-mit.github.io/publication/chen-2013-maximizing/</guid>
+      <guid>https://bioelectronics-mit.github.io/publication/chen-2013-maximizing/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Optical inhibition of motor nerve and muscle activity in vivo</title>
-      <link>https://biolectronics-mit.github.io/publication/liske-2013-optical/</link>
+      <link>https://bioelectronics-mit.github.io/publication/liske-2013-optical/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>https://biolectronics-mit.github.io/publication/liske-2013-optical/</guid>
+      <guid>https://bioelectronics-mit.github.io/publication/liske-2013-optical/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Photothermal genetic engineering</title>
-      <link>https://biolectronics-mit.github.io/publication/anikeeva-2012-photothermal/</link>
+      <link>https://bioelectronics-mit.github.io/publication/anikeeva-2012-photothermal/</link>
       <pubDate>Tue, 25 Sep 2012 00:00:00 +0000</pubDate>
-      <guid>https://biolectronics-mit.github.io/publication/anikeeva-2012-photothermal/</guid>
+      <guid>https://bioelectronics-mit.github.io/publication/anikeeva-2012-photothermal/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Optetrode: a multichannel readout for optogenetic control in freely moving mice</title>
-      <link>https://biolectronics-mit.github.io/publication/anikeeva-2011-optetrode/</link>
+      <link>https://bioelectronics-mit.github.io/publication/anikeeva-2011-optetrode/</link>
       <pubDate>Sun, 04 Dec 2011 00:00:00 +0000</pubDate>
-      <guid>https://biolectronics-mit.github.io/publication/anikeeva-2011-optetrode/</guid>
+      <guid>https://bioelectronics-mit.github.io/publication/anikeeva-2011-optetrode/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Morphology of contact printed colloidal quantum dots in organic semiconductor films: Implications for QD-LEDs</title>
-      <link>https://biolectronics-mit.github.io/publication/aidala-2011-morphology/</link>
+      <link>https://bioelectronics-mit.github.io/publication/aidala-2011-morphology/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>https://biolectronics-mit.github.io/publication/aidala-2011-morphology/</guid>
+      <guid>https://bioelectronics-mit.github.io/publication/aidala-2011-morphology/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cholinergic interneurons control local circuit activity and cocaine conditioning</title>
-      <link>https://biolectronics-mit.github.io/publication/witten-2010-cholinergic/</link>
+      <link>https://bioelectronics-mit.github.io/publication/witten-2010-cholinergic/</link>
       <pubDate>Fri, 17 Dec 2010 00:00:00 +0000</pubDate>
-      <guid>https://biolectronics-mit.github.io/publication/witten-2010-cholinergic/</guid>
+      <guid>https://bioelectronics-mit.github.io/publication/witten-2010-cholinergic/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Nanoscale morphology revealed at the interface between colloidal quantum dots and organic semiconductor films</title>
-      <link>https://biolectronics-mit.github.io/publication/panzer-2010-nanoscale/</link>
+      <link>https://bioelectronics-mit.github.io/publication/panzer-2010-nanoscale/</link>
       <pubDate>Wed, 14 Jul 2010 00:00:00 +0000</pubDate>
-      <guid>https://biolectronics-mit.github.io/publication/panzer-2010-nanoscale/</guid>
+      <guid>https://bioelectronics-mit.github.io/publication/panzer-2010-nanoscale/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Measuring charge trap occupation and energy level in CdSe/ZnS quantum dots using a scanning tunneling microscope</title>
-      <link>https://biolectronics-mit.github.io/publication/hummon-2010-measuring/</link>
+      <link>https://bioelectronics-mit.github.io/publication/hummon-2010-measuring/</link>
       <pubDate>Mon, 22 Mar 2010 00:00:00 +0000</pubDate>
-      <guid>https://biolectronics-mit.github.io/publication/hummon-2010-measuring/</guid>
+      <guid>https://bioelectronics-mit.github.io/publication/hummon-2010-measuring/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Efficient Förster energy transfer from phosphorescent organic molecules to J-aggregate thin films</title>
-      <link>https://biolectronics-mit.github.io/publication/shirasaki-2010-efficient/</link>
+      <link>https://bioelectronics-mit.github.io/publication/shirasaki-2010-efficient/</link>
       <pubDate>Mon, 18 Jan 2010 00:00:00 +0000</pubDate>
-      <guid>https://biolectronics-mit.github.io/publication/shirasaki-2010-efficient/</guid>
+      <guid>https://bioelectronics-mit.github.io/publication/shirasaki-2010-efficient/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Quantum dot light-emitting devices with electroluminescence tunable over the entire visible spectrum</title>
-      <link>https://biolectronics-mit.github.io/publication/anikeeva-2009-quantum-dot/</link>
+      <link>https://bioelectronics-mit.github.io/publication/anikeeva-2009-quantum-dot/</link>
       <pubDate>Wed, 08 Jul 2009 00:00:00 +0000</pubDate>
-      <guid>https://biolectronics-mit.github.io/publication/anikeeva-2009-quantum-dot/</guid>
+      <guid>https://bioelectronics-mit.github.io/publication/anikeeva-2009-quantum-dot/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Contact printing of quantum dot light-emitting devices</title>
-      <link>https://biolectronics-mit.github.io/publication/kim-2008-contact/</link>
+      <link>https://bioelectronics-mit.github.io/publication/kim-2008-contact/</link>
       <pubDate>Wed, 10 Dec 2008 00:00:00 +0000</pubDate>
-      <guid>https://biolectronics-mit.github.io/publication/kim-2008-contact/</guid>
+      <guid>https://bioelectronics-mit.github.io/publication/kim-2008-contact/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Electronic and excitonic processes in light-emitting devices based on organic materials and colloidal quantum dots</title>
-      <link>https://biolectronics-mit.github.io/publication/anikeeva-2008-electronic/</link>
+      <link>https://bioelectronics-mit.github.io/publication/anikeeva-2008-electronic/</link>
       <pubDate>Wed, 27 Aug 2008 00:00:00 +0000</pubDate>
-      <guid>https://biolectronics-mit.github.io/publication/anikeeva-2008-electronic/</guid>
+      <guid>https://bioelectronics-mit.github.io/publication/anikeeva-2008-electronic/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Electroluminescence from a mixed red- green- blue colloidal quantum dot monolayer</title>
-      <link>https://biolectronics-mit.github.io/publication/anikeeva-2007-electroluminescence/</link>
+      <link>https://bioelectronics-mit.github.io/publication/anikeeva-2007-electroluminescence/</link>
       <pubDate>Sun, 08 Jul 2007 00:00:00 +0000</pubDate>
-      <guid>https://biolectronics-mit.github.io/publication/anikeeva-2007-electroluminescence/</guid>
+      <guid>https://bioelectronics-mit.github.io/publication/anikeeva-2007-electroluminescence/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Color-saturated green-emitting QD-LEDs</title>
-      <link>https://biolectronics-mit.github.io/publication/steckel-2006-color/</link>
+      <link>https://bioelectronics-mit.github.io/publication/steckel-2006-color/</link>
       <pubDate>Mon, 04 Sep 2006 00:00:00 +0000</pubDate>
-      <guid>https://biolectronics-mit.github.io/publication/steckel-2006-color/</guid>
+      <guid>https://bioelectronics-mit.github.io/publication/steckel-2006-color/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Photoluminescence of CdSe/ZnS core/shell quantum dots enhanced by energy transfer from a phosphorescent donor</title>
-      <link>https://biolectronics-mit.github.io/publication/anikeeva-2006-photoluminescence/</link>
+      <link>https://bioelectronics-mit.github.io/publication/anikeeva-2006-photoluminescence/</link>
       <pubDate>Mon, 12 Jun 2006 00:00:00 +0000</pubDate>
-      <guid>https://biolectronics-mit.github.io/publication/anikeeva-2006-photoluminescence/</guid>
+      <guid>https://bioelectronics-mit.github.io/publication/anikeeva-2006-photoluminescence/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Light amplification using inverted core/shell nanocrystals: towards lasing in the single-exciton regime</title>
-      <link>https://biolectronics-mit.github.io/publication/ivanov-2004-light/</link>
+      <link>https://bioelectronics-mit.github.io/publication/ivanov-2004-light/</link>
       <pubDate>Thu, 29 Jul 2004 00:00:00 +0000</pubDate>
-      <guid>https://biolectronics-mit.github.io/publication/ivanov-2004-light/</guid>
+      <guid>https://bioelectronics-mit.github.io/publication/ivanov-2004-light/</guid>
       <description></description>
     </item>
     

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Heather A Clark | Biolelectronics at MIT</title>
-    <link>https://biolectronics-mit.github.io/author/heather-a-clark/</link>
-      <atom:link href="https://biolectronics-mit.github.io/author/heather-a-clark/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://bioelectronics-mit.github.io/author/heather-a-clark/</link>
+      <atom:link href="https://bioelectronics-mit.github.io/author/heather-a-clark/index.xml" rel="self" type="application/rss+xml" />
     <description>Heather A Clark</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 18 Apr 2016 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://biolectronics-mit.github.io/images/logo_hu824973b0e9eedfd7e339f3ab3f0c6ec4_36236_300x300_fit_lanczos_2.png</url>
+      <url>https://bioelectronics-mit.github.io/images/logo_hu824973b0e9eedfd7e339f3ab3f0c6ec4_36236_300x300_fit_lanczos_2.png</url>
       <title>Heather A Clark</title>
-      <link>https://biolectronics-mit.github.io/author/heather-a-clark/</link>
+      <link>https://bioelectronics-mit.github.io/author/heather-a-clark/</link>
     </image>
     
     <item>
       <title>Ion-switchable quantum dot Forster resonance energy transfer rates in ratiometric potassium sensors</title>
-      <link>https://biolectronics-mit.github.io/publication/ruckh-2016-ion/</link>
+      <link>https://bioelectronics-mit.github.io/publication/ruckh-2016-ion/</link>
       <pubDate>Mon, 18 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://biolectronics-mit.github.io/publication/ruckh-2016-ion/</guid>
+      <guid>https://bioelectronics-mit.github.io/publication/ruckh-2016-ion/</guid>
       <description></description>
     </item>
     

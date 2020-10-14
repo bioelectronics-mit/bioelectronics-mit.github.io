@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Rachel Ellison | Biolelectronics at MIT</title>
-    <link>https://biolectronics-mit.github.io/author/rachel-ellison/</link>
-      <atom:link href="https://biolectronics-mit.github.io/author/rachel-ellison/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://bioelectronics-mit.github.io/author/rachel-ellison/</link>
+      <atom:link href="https://bioelectronics-mit.github.io/author/rachel-ellison/index.xml" rel="self" type="application/rss+xml" />
     <description>Rachel Ellison</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 19 Aug 2015 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://biolectronics-mit.github.io/images/logo_hu824973b0e9eedfd7e339f3ab3f0c6ec4_36236_300x300_fit_lanczos_2.png</url>
+      <url>https://bioelectronics-mit.github.io/images/logo_hu824973b0e9eedfd7e339f3ab3f0c6ec4_36236_300x300_fit_lanczos_2.png</url>
       <title>Rachel Ellison</title>
-      <link>https://biolectronics-mit.github.io/author/rachel-ellison/</link>
+      <link>https://bioelectronics-mit.github.io/author/rachel-ellison/</link>
     </image>
     
     <item>
       <title>Targeted Magnetic Nanoparticles for Remote Magnetothermal Disruption of Amyloid-β Aggregates</title>
-      <link>https://biolectronics-mit.github.io/publication/loynachan-2015-targeted/</link>
+      <link>https://bioelectronics-mit.github.io/publication/loynachan-2015-targeted/</link>
       <pubDate>Wed, 19 Aug 2015 00:00:00 +0000</pubDate>
-      <guid>https://biolectronics-mit.github.io/publication/loynachan-2015-targeted/</guid>
+      <guid>https://bioelectronics-mit.github.io/publication/loynachan-2015-targeted/</guid>
       <description></description>
     </item>
     

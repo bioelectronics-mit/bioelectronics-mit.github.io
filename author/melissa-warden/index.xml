@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Melissa Warden | Biolelectronics at MIT</title>
-    <link>https://biolectronics-mit.github.io/author/melissa-warden/</link>
-      <atom:link href="https://biolectronics-mit.github.io/author/melissa-warden/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://bioelectronics-mit.github.io/author/melissa-warden/</link>
+      <atom:link href="https://bioelectronics-mit.github.io/author/melissa-warden/index.xml" rel="self" type="application/rss+xml" />
     <description>Melissa Warden</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 04 Dec 2011 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://biolectronics-mit.github.io/images/logo_hu824973b0e9eedfd7e339f3ab3f0c6ec4_36236_300x300_fit_lanczos_2.png</url>
+      <url>https://bioelectronics-mit.github.io/images/logo_hu824973b0e9eedfd7e339f3ab3f0c6ec4_36236_300x300_fit_lanczos_2.png</url>
       <title>Melissa Warden</title>
-      <link>https://biolectronics-mit.github.io/author/melissa-warden/</link>
+      <link>https://bioelectronics-mit.github.io/author/melissa-warden/</link>
     </image>
     
     <item>
       <title>Optetrode: a multichannel readout for optogenetic control in freely moving mice</title>
-      <link>https://biolectronics-mit.github.io/publication/anikeeva-2011-optetrode/</link>
+      <link>https://bioelectronics-mit.github.io/publication/anikeeva-2011-optetrode/</link>
       <pubDate>Sun, 04 Dec 2011 00:00:00 +0000</pubDate>
-      <guid>https://biolectronics-mit.github.io/publication/anikeeva-2011-optetrode/</guid>
+      <guid>https://bioelectronics-mit.github.io/publication/anikeeva-2011-optetrode/</guid>
       <description></description>
     </item>
     

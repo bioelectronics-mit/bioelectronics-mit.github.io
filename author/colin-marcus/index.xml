@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Colin Marcus | Biolelectronics at MIT</title>
-    <link>https://biolectronics-mit.github.io/author/colin-marcus/</link>
-      <atom:link href="https://biolectronics-mit.github.io/author/colin-marcus/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://bioelectronics-mit.github.io/author/colin-marcus/</link>
+      <atom:link href="https://bioelectronics-mit.github.io/author/colin-marcus/index.xml" rel="self" type="application/rss+xml" />
     <description>Colin Marcus</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 10 Jul 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://biolectronics-mit.github.io/images/logo_hu824973b0e9eedfd7e339f3ab3f0c6ec4_36236_300x300_fit_lanczos_2.png</url>
+      <url>https://bioelectronics-mit.github.io/images/logo_hu824973b0e9eedfd7e339f3ab3f0c6ec4_36236_300x300_fit_lanczos_2.png</url>
       <title>Colin Marcus</title>
-      <link>https://biolectronics-mit.github.io/author/colin-marcus/</link>
+      <link>https://bioelectronics-mit.github.io/author/colin-marcus/</link>
     </image>
     
     <item>
       <title>Magnetothermal Multiplexing for Selective Remote Control of Cell Signaling</title>
-      <link>https://biolectronics-mit.github.io/publication/moon-2020-magneothermal/</link>
+      <link>https://bioelectronics-mit.github.io/publication/moon-2020-magneothermal/</link>
       <pubDate>Fri, 10 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://biolectronics-mit.github.io/publication/moon-2020-magneothermal/</guid>
+      <guid>https://bioelectronics-mit.github.io/publication/moon-2020-magneothermal/</guid>
       <description></description>
     </item>
     

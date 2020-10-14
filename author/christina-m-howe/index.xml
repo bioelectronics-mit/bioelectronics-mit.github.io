@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Christina M Howe | Biolelectronics at MIT</title>
-    <link>https://biolectronics-mit.github.io/author/christina-m-howe/</link>
-      <atom:link href="https://biolectronics-mit.github.io/author/christina-m-howe/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://bioelectronics-mit.github.io/author/christina-m-howe/</link>
+      <atom:link href="https://bioelectronics-mit.github.io/author/christina-m-howe/index.xml" rel="self" type="application/rss+xml" />
     <description>Christina M Howe</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 22 Aug 2017 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://biolectronics-mit.github.io/images/logo_hu824973b0e9eedfd7e339f3ab3f0c6ec4_36236_300x300_fit_lanczos_2.png</url>
+      <url>https://bioelectronics-mit.github.io/images/logo_hu824973b0e9eedfd7e339f3ab3f0c6ec4_36236_300x300_fit_lanczos_2.png</url>
       <title>Christina M Howe</title>
-      <link>https://biolectronics-mit.github.io/author/christina-m-howe/</link>
+      <link>https://bioelectronics-mit.github.io/author/christina-m-howe/</link>
     </image>
     
     <item>
       <title>Practical methods for generating alternating magnetic fields for biomedical research</title>
-      <link>https://biolectronics-mit.github.io/publication/christiansen-2017-practical/</link>
+      <link>https://bioelectronics-mit.github.io/publication/christiansen-2017-practical/</link>
       <pubDate>Tue, 22 Aug 2017 00:00:00 +0000</pubDate>
-      <guid>https://biolectronics-mit.github.io/publication/christiansen-2017-practical/</guid>
+      <guid>https://bioelectronics-mit.github.io/publication/christiansen-2017-practical/</guid>
       <description></description>
     </item>
     

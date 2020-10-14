@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Lisa Y Maeng | Biolelectronics at MIT</title>
-    <link>https://biolectronics-mit.github.io/author/lisa-y-maeng/</link>
-      <atom:link href="https://biolectronics-mit.github.io/author/lisa-y-maeng/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://bioelectronics-mit.github.io/author/lisa-y-maeng/</link>
+      <atom:link href="https://bioelectronics-mit.github.io/author/lisa-y-maeng/index.xml" rel="self" type="application/rss+xml" />
     <description>Lisa Y Maeng</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 10 Apr 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://biolectronics-mit.github.io/images/logo_hu824973b0e9eedfd7e339f3ab3f0c6ec4_36236_300x300_fit_lanczos_2.png</url>
+      <url>https://bioelectronics-mit.github.io/images/logo_hu824973b0e9eedfd7e339f3ab3f0c6ec4_36236_300x300_fit_lanczos_2.png</url>
       <title>Lisa Y Maeng</title>
-      <link>https://biolectronics-mit.github.io/author/lisa-y-maeng/</link>
+      <link>https://bioelectronics-mit.github.io/author/lisa-y-maeng/</link>
     </image>
     
     <item>
       <title>Hormone Release</title>
-      <link>https://biolectronics-mit.github.io/post/2020-hormone-release/</link>
+      <link>https://bioelectronics-mit.github.io/post/2020-hormone-release/</link>
       <pubDate>Fri, 10 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>https://biolectronics-mit.github.io/post/2020-hormone-release/</guid>
+      <guid>https://bioelectronics-mit.github.io/post/2020-hormone-release/</guid>
       <description>&lt;p&gt;Abnormal levels of stress hormones such as adrenaline and cortisol are linked to a variety of mental health disorders, including depression and PTSD. MIT researchers, including the Anikeeva group, have now devised a way to remotely control the release of these hormones from the adrenal gland using magnetic nanoparticles.&lt;/p&gt;
 &lt;p&gt;To achieve control over hormone release, Dekel Rosenfeld, an MIT-Technion postdoc in Professor Anikeeva’s group, has developed specialized magnetic nanoparticles that can be injected into the adrenal gland. When exposed to a weak magnetic field, the particles heat up slightly, activating heat-responsive channels that trigger hormone release. This technique can be used to stimulate an organ deep in the body with minimal invasiveness.&lt;/p&gt;
 &lt;p&gt;The researchers now plan to use this approach to study how hormone release affects PTSD and other disorders, and they say that eventually it could be adapted for treating such disorders. This method would offer a much less invasive alternative to potential treatments that involve implanting a medical device to electrically stimulate hormone release, which is not feasible in organs such as the adrenal glands that are soft and highly vascularized.&lt;/p&gt;
@@ -26,9 +26,9 @@
     
     <item>
       <title>Transgene-free remote magnetothermal regulation of adrenal hormones</title>
-      <link>https://biolectronics-mit.github.io/publication/rosenfeld-2020-transgene/</link>
+      <link>https://bioelectronics-mit.github.io/publication/rosenfeld-2020-transgene/</link>
       <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>https://biolectronics-mit.github.io/publication/rosenfeld-2020-transgene/</guid>
+      <guid>https://bioelectronics-mit.github.io/publication/rosenfeld-2020-transgene/</guid>
       <description></description>
     </item>
     

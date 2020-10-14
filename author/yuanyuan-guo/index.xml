@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Yuanyuan Guo | Biolelectronics at MIT</title>
-    <link>https://biolectronics-mit.github.io/author/yuanyuan-guo/</link>
-      <atom:link href="https://biolectronics-mit.github.io/author/yuanyuan-guo/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://bioelectronics-mit.github.io/author/yuanyuan-guo/</link>
+      <atom:link href="https://bioelectronics-mit.github.io/author/yuanyuan-guo/index.xml" rel="self" type="application/rss+xml" />
     <description>Yuanyuan Guo</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 24 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://biolectronics-mit.github.io/images/logo_hu824973b0e9eedfd7e339f3ab3f0c6ec4_36236_300x300_fit_lanczos_2.png</url>
+      <url>https://bioelectronics-mit.github.io/images/logo_hu824973b0e9eedfd7e339f3ab3f0c6ec4_36236_300x300_fit_lanczos_2.png</url>
       <title>Yuanyuan Guo</title>
-      <link>https://biolectronics-mit.github.io/author/yuanyuan-guo/</link>
+      <link>https://bioelectronics-mit.github.io/author/yuanyuan-guo/</link>
     </image>
     
     <item>
       <title>Polymer-fiber-coupled field-effect sensors for label-free deep brain recordings</title>
-      <link>https://biolectronics-mit.github.io/publication/guo-2020-polymer/</link>
+      <link>https://bioelectronics-mit.github.io/publication/guo-2020-polymer/</link>
       <pubDate>Fri, 24 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://biolectronics-mit.github.io/publication/guo-2020-polymer/</guid>
+      <guid>https://bioelectronics-mit.github.io/publication/guo-2020-polymer/</guid>
       <description></description>
     </item>
     
     <item>
       <title>One-step optogenetics with multifunctional flexible polymer fibers</title>
-      <link>https://biolectronics-mit.github.io/publication/park-2017-one/</link>
+      <link>https://bioelectronics-mit.github.io/publication/park-2017-one/</link>
       <pubDate>Mon, 20 Feb 2017 00:00:00 +0000</pubDate>
-      <guid>https://biolectronics-mit.github.io/publication/park-2017-one/</guid>
+      <guid>https://bioelectronics-mit.github.io/publication/park-2017-one/</guid>
       <description></description>
     </item>
     
