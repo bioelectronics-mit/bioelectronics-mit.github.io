@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Yuri Matsumoto | Biolelectronics at MIT</title>
-    <link>https://bioelectronics-mit.github.io/author/yuri-matsumoto/</link>
-      <atom:link href="https://bioelectronics-mit.github.io/author/yuri-matsumoto/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://bioelectronics.mit.edu/author/yuri-matsumoto/</link>
+      <atom:link href="http://bioelectronics.mit.edu/author/yuri-matsumoto/index.xml" rel="self" type="application/rss+xml" />
     <description>Yuri Matsumoto</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 10 Feb 2016 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://bioelectronics-mit.github.io/images/logo_hu824973b0e9eedfd7e339f3ab3f0c6ec4_36236_300x300_fit_lanczos_2.png</url>
+      <url>http://bioelectronics.mit.edu/images/logo_hu824973b0e9eedfd7e339f3ab3f0c6ec4_36236_300x300_fit_lanczos_2.png</url>
       <title>Yuri Matsumoto</title>
-      <link>https://bioelectronics-mit.github.io/author/yuri-matsumoto/</link>
+      <link>http://bioelectronics.mit.edu/author/yuri-matsumoto/</link>
     </image>
     
     <item>
       <title>High-performance ferrite nanoparticles through nonaqueous redox phase tuning</title>
-      <link>https://bioelectronics-mit.github.io/publication/chen-2016-high/</link>
+      <link>http://bioelectronics.mit.edu/publication/chen-2016-high/</link>
       <pubDate>Wed, 10 Feb 2016 00:00:00 +0000</pubDate>
-      <guid>https://bioelectronics-mit.github.io/publication/chen-2016-high/</guid>
+      <guid>http://bioelectronics.mit.edu/publication/chen-2016-high/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Engineering intracellular biomineralization and biosensing by a magnetic protein</title>
-      <link>https://bioelectronics-mit.github.io/publication/matsumoto-2015-engineering/</link>
+      <link>http://bioelectronics.mit.edu/publication/matsumoto-2015-engineering/</link>
       <pubDate>Mon, 02 Nov 2015 00:00:00 +0000</pubDate>
-      <guid>https://bioelectronics-mit.github.io/publication/matsumoto-2015-engineering/</guid>
+      <guid>http://bioelectronics.mit.edu/publication/matsumoto-2015-engineering/</guid>
       <description></description>
     </item>
     

@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Chet T Moritz | Biolelectronics at MIT</title>
-    <link>https://bioelectronics-mit.github.io/author/chet-t-moritz/</link>
-      <atom:link href="https://bioelectronics-mit.github.io/author/chet-t-moritz/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://bioelectronics.mit.edu/author/chet-t-moritz/</link>
+      <atom:link href="http://bioelectronics.mit.edu/author/chet-t-moritz/index.xml" rel="self" type="application/rss+xml" />
     <description>Chet T Moritz</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 15 Aug 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://bioelectronics-mit.github.io/images/logo_hu824973b0e9eedfd7e339f3ab3f0c6ec4_36236_300x300_fit_lanczos_2.png</url>
+      <url>http://bioelectronics.mit.edu/images/logo_hu824973b0e9eedfd7e339f3ab3f0c6ec4_36236_300x300_fit_lanczos_2.png</url>
       <title>Chet T Moritz</title>
-      <link>https://bioelectronics-mit.github.io/author/chet-t-moritz/</link>
+      <link>http://bioelectronics.mit.edu/author/chet-t-moritz/</link>
     </image>
     
     <item>
       <title>Optogenetic surface stimulation of the rat cervical spinal cord</title>
-      <link>https://bioelectronics-mit.github.io/publication/mondello-2018-optogenetic/</link>
+      <link>http://bioelectronics.mit.edu/publication/mondello-2018-optogenetic/</link>
       <pubDate>Wed, 15 Aug 2018 00:00:00 +0000</pubDate>
-      <guid>https://bioelectronics-mit.github.io/publication/mondello-2018-optogenetic/</guid>
+      <guid>http://bioelectronics.mit.edu/publication/mondello-2018-optogenetic/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Flexible and stretchable nanowire-coated fibers for optoelectronic probing of spinal cord circuits</title>
-      <link>https://bioelectronics-mit.github.io/publication/lu-2017-flexible/</link>
+      <link>http://bioelectronics.mit.edu/publication/lu-2017-flexible/</link>
       <pubDate>Wed, 29 Mar 2017 00:00:00 +0000</pubDate>
-      <guid>https://bioelectronics-mit.github.io/publication/lu-2017-flexible/</guid>
+      <guid>http://bioelectronics.mit.edu/publication/lu-2017-flexible/</guid>
       <description></description>
     </item>
     

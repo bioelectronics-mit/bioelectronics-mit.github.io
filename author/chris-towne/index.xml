@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Chris Towne | Biolelectronics at MIT</title>
-    <link>https://bioelectronics-mit.github.io/author/chris-towne/</link>
-      <atom:link href="https://bioelectronics-mit.github.io/author/chris-towne/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://bioelectronics.mit.edu/author/chris-towne/</link>
+      <atom:link href="http://bioelectronics.mit.edu/author/chris-towne/index.xml" rel="self" type="application/rss+xml" />
     <description>Chris Towne</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2013 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://bioelectronics-mit.github.io/images/logo_hu824973b0e9eedfd7e339f3ab3f0c6ec4_36236_300x300_fit_lanczos_2.png</url>
+      <url>http://bioelectronics.mit.edu/images/logo_hu824973b0e9eedfd7e339f3ab3f0c6ec4_36236_300x300_fit_lanczos_2.png</url>
       <title>Chris Towne</title>
-      <link>https://bioelectronics-mit.github.io/author/chris-towne/</link>
+      <link>http://bioelectronics.mit.edu/author/chris-towne/</link>
     </image>
     
     <item>
       <title>Optical inhibition of motor nerve and muscle activity in vivo</title>
-      <link>https://bioelectronics-mit.github.io/publication/liske-2013-optical/</link>
+      <link>http://bioelectronics.mit.edu/publication/liske-2013-optical/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>https://bioelectronics-mit.github.io/publication/liske-2013-optical/</guid>
+      <guid>http://bioelectronics.mit.edu/publication/liske-2013-optical/</guid>
       <description></description>
     </item>
     

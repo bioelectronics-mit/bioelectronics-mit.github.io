@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Li Yao | Biolelectronics at MIT</title>
-    <link>https://bioelectronics-mit.github.io/author/li-yao/</link>
-      <atom:link href="https://bioelectronics-mit.github.io/author/li-yao/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://bioelectronics.mit.edu/author/li-yao/</link>
+      <atom:link href="http://bioelectronics.mit.edu/author/li-yao/index.xml" rel="self" type="application/rss+xml" />
     <description>Li Yao</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 16 Apr 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://bioelectronics-mit.github.io/images/logo_hu824973b0e9eedfd7e339f3ab3f0c6ec4_36236_300x300_fit_lanczos_2.png</url>
+      <url>http://bioelectronics.mit.edu/images/logo_hu824973b0e9eedfd7e339f3ab3f0c6ec4_36236_300x300_fit_lanczos_2.png</url>
       <title>Li Yao</title>
-      <link>https://bioelectronics-mit.github.io/author/li-yao/</link>
+      <link>http://bioelectronics.mit.edu/author/li-yao/</link>
     </image>
     
     <item>
       <title>Functionally Distinct Neuronal Ensembles within the Memory Engram</title>
-      <link>https://bioelectronics-mit.github.io/publication/sun-2020-functionally/</link>
+      <link>http://bioelectronics.mit.edu/publication/sun-2020-functionally/</link>
       <pubDate>Thu, 16 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>https://bioelectronics-mit.github.io/publication/sun-2020-functionally/</guid>
+      <guid>http://bioelectronics.mit.edu/publication/sun-2020-functionally/</guid>
       <description></description>
     </item>
     

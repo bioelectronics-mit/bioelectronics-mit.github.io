@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>V Narayanamurti | Biolelectronics at MIT</title>
-    <link>https://bioelectronics-mit.github.io/author/v-narayanamurti/</link>
-      <atom:link href="https://bioelectronics-mit.github.io/author/v-narayanamurti/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://bioelectronics.mit.edu/author/v-narayanamurti/</link>
+      <atom:link href="http://bioelectronics.mit.edu/author/v-narayanamurti/index.xml" rel="self" type="application/rss+xml" />
     <description>V Narayanamurti</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 22 Mar 2010 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://bioelectronics-mit.github.io/images/logo_hu824973b0e9eedfd7e339f3ab3f0c6ec4_36236_300x300_fit_lanczos_2.png</url>
+      <url>http://bioelectronics.mit.edu/images/logo_hu824973b0e9eedfd7e339f3ab3f0c6ec4_36236_300x300_fit_lanczos_2.png</url>
       <title>V Narayanamurti</title>
-      <link>https://bioelectronics-mit.github.io/author/v-narayanamurti/</link>
+      <link>http://bioelectronics.mit.edu/author/v-narayanamurti/</link>
     </image>
     
     <item>
       <title>Measuring charge trap occupation and energy level in CdSe/ZnS quantum dots using a scanning tunneling microscope</title>
-      <link>https://bioelectronics-mit.github.io/publication/hummon-2010-measuring/</link>
+      <link>http://bioelectronics.mit.edu/publication/hummon-2010-measuring/</link>
       <pubDate>Mon, 22 Mar 2010 00:00:00 +0000</pubDate>
-      <guid>https://bioelectronics-mit.github.io/publication/hummon-2010-measuring/</guid>
+      <guid>http://bioelectronics.mit.edu/publication/hummon-2010-measuring/</guid>
       <description></description>
     </item>
     

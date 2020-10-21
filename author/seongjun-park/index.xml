@@ -2,109 +2,109 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Seongjun Park | Biolelectronics at MIT</title>
-    <link>https://bioelectronics-mit.github.io/author/seongjun-park/</link>
-      <atom:link href="https://bioelectronics-mit.github.io/author/seongjun-park/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://bioelectronics.mit.edu/author/seongjun-park/</link>
+      <atom:link href="http://bioelectronics.mit.edu/author/seongjun-park/index.xml" rel="self" type="application/rss+xml" />
     <description>Seongjun Park</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 10 Jul 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://bioelectronics-mit.github.io/images/logo_hu824973b0e9eedfd7e339f3ab3f0c6ec4_36236_300x300_fit_lanczos_2.png</url>
+      <url>http://bioelectronics.mit.edu/images/logo_hu824973b0e9eedfd7e339f3ab3f0c6ec4_36236_300x300_fit_lanczos_2.png</url>
       <title>Seongjun Park</title>
-      <link>https://bioelectronics-mit.github.io/author/seongjun-park/</link>
+      <link>http://bioelectronics.mit.edu/author/seongjun-park/</link>
     </image>
     
     <item>
       <title>Magnetothermal Multiplexing for Selective Remote Control of Cell Signaling</title>
-      <link>https://bioelectronics-mit.github.io/publication/moon-2020-magneothermal/</link>
+      <link>http://bioelectronics.mit.edu/publication/moon-2020-magneothermal/</link>
       <pubDate>Fri, 10 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://bioelectronics-mit.github.io/publication/moon-2020-magneothermal/</guid>
+      <guid>http://bioelectronics.mit.edu/publication/moon-2020-magneothermal/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A gut sensor for sugar preference</title>
-      <link>https://bioelectronics-mit.github.io/publication/buchanan-2020-gut/</link>
+      <link>http://bioelectronics.mit.edu/publication/buchanan-2020-gut/</link>
       <pubDate>Sun, 08 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>https://bioelectronics-mit.github.io/publication/buchanan-2020-gut/</guid>
+      <guid>http://bioelectronics.mit.edu/publication/buchanan-2020-gut/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Remotely controlled chemomagnetic modulation of targeted neural circuits</title>
-      <link>https://bioelectronics-mit.github.io/publication/rao-2019-remotely/</link>
+      <link>http://bioelectronics.mit.edu/publication/rao-2019-remotely/</link>
       <pubDate>Mon, 19 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>https://bioelectronics-mit.github.io/publication/rao-2019-remotely/</guid>
+      <guid>http://bioelectronics.mit.edu/publication/rao-2019-remotely/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Scalable Fabrication of Porous Microchannel Nerve Guidance Scaffolds with Complex Geometries</title>
-      <link>https://bioelectronics-mit.github.io/publication/shahriari-2019-scalable/</link>
+      <link>http://bioelectronics.mit.edu/publication/shahriari-2019-scalable/</link>
       <pubDate>Thu, 06 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>https://bioelectronics-mit.github.io/publication/shahriari-2019-scalable/</guid>
+      <guid>http://bioelectronics.mit.edu/publication/shahriari-2019-scalable/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Flexible fiber-based optoelectronics for neural interfaces</title>
-      <link>https://bioelectronics-mit.github.io/publication/park-2019-flexible/</link>
+      <link>http://bioelectronics.mit.edu/publication/park-2019-flexible/</link>
       <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://bioelectronics-mit.github.io/publication/park-2019-flexible/</guid>
+      <guid>http://bioelectronics.mit.edu/publication/park-2019-flexible/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Optogenetic entrainment of neural oscillations with hybrid fiber probes</title>
-      <link>https://bioelectronics-mit.github.io/publication/kilias-2018-optogenetic/</link>
+      <link>http://bioelectronics.mit.edu/publication/kilias-2018-optogenetic/</link>
       <pubDate>Wed, 11 Jul 2018 00:00:00 +0000</pubDate>
-      <guid>https://bioelectronics-mit.github.io/publication/kilias-2018-optogenetic/</guid>
+      <guid>http://bioelectronics.mit.edu/publication/kilias-2018-optogenetic/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Silicon biointerfaces for all scales</title>
-      <link>https://bioelectronics-mit.github.io/publication/park-2018-silicon/</link>
+      <link>http://bioelectronics.mit.edu/publication/park-2018-silicon/</link>
       <pubDate>Mon, 11 Jun 2018 00:00:00 +0000</pubDate>
-      <guid>https://bioelectronics-mit.github.io/publication/park-2018-silicon/</guid>
+      <guid>http://bioelectronics.mit.edu/publication/park-2018-silicon/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Multifunctional fibers as tools for neuroscience and neuroengineering</title>
-      <link>https://bioelectronics-mit.github.io/publication/canales-2018-multifunctional/</link>
+      <link>http://bioelectronics.mit.edu/publication/canales-2018-multifunctional/</link>
       <pubDate>Wed, 21 Mar 2018 00:00:00 +0000</pubDate>
-      <guid>https://bioelectronics-mit.github.io/publication/canales-2018-multifunctional/</guid>
+      <guid>http://bioelectronics.mit.edu/publication/canales-2018-multifunctional/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Flexible and stretchable nanowire-coated fibers for optoelectronic probing of spinal cord circuits</title>
-      <link>https://bioelectronics-mit.github.io/publication/lu-2017-flexible/</link>
+      <link>http://bioelectronics.mit.edu/publication/lu-2017-flexible/</link>
       <pubDate>Wed, 29 Mar 2017 00:00:00 +0000</pubDate>
-      <guid>https://bioelectronics-mit.github.io/publication/lu-2017-flexible/</guid>
+      <guid>http://bioelectronics.mit.edu/publication/lu-2017-flexible/</guid>
       <description></description>
     </item>
     
     <item>
       <title>One-step optogenetics with multifunctional flexible polymer fibers</title>
-      <link>https://bioelectronics-mit.github.io/publication/park-2017-one/</link>
+      <link>http://bioelectronics.mit.edu/publication/park-2017-one/</link>
       <pubDate>Mon, 20 Feb 2017 00:00:00 +0000</pubDate>
-      <guid>https://bioelectronics-mit.github.io/publication/park-2017-one/</guid>
+      <guid>http://bioelectronics.mit.edu/publication/park-2017-one/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Thermally drawn fibers as nerve guidance scaffolds</title>
-      <link>https://bioelectronics-mit.github.io/publication/koppes-2016-thermally/</link>
+      <link>http://bioelectronics.mit.edu/publication/koppes-2016-thermally/</link>
       <pubDate>Tue, 01 Mar 2016 00:00:00 +0000</pubDate>
-      <guid>https://bioelectronics-mit.github.io/publication/koppes-2016-thermally/</guid>
+      <guid>http://bioelectronics.mit.edu/publication/koppes-2016-thermally/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Optogenetic control of nerve growth</title>
-      <link>https://bioelectronics-mit.github.io/publication/park-2015-optogenetic/</link>
+      <link>http://bioelectronics.mit.edu/publication/park-2015-optogenetic/</link>
       <pubDate>Mon, 18 May 2015 00:00:00 +0000</pubDate>
-      <guid>https://bioelectronics-mit.github.io/publication/park-2015-optogenetic/</guid>
+      <guid>http://bioelectronics.mit.edu/publication/park-2015-optogenetic/</guid>
       <description></description>
     </item>
     

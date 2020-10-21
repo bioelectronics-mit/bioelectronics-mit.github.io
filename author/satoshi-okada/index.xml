@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Satoshi Okada | Biolelectronics at MIT</title>
-    <link>https://bioelectronics-mit.github.io/author/satoshi-okada/</link>
-      <atom:link href="https://bioelectronics-mit.github.io/author/satoshi-okada/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://bioelectronics.mit.edu/author/satoshi-okada/</link>
+      <atom:link href="http://bioelectronics.mit.edu/author/satoshi-okada/index.xml" rel="self" type="application/rss+xml" />
     <description>Satoshi Okada</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 10 Feb 2016 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://bioelectronics-mit.github.io/images/logo_hu824973b0e9eedfd7e339f3ab3f0c6ec4_36236_300x300_fit_lanczos_2.png</url>
+      <url>http://bioelectronics.mit.edu/images/logo_hu824973b0e9eedfd7e339f3ab3f0c6ec4_36236_300x300_fit_lanczos_2.png</url>
       <title>Satoshi Okada</title>
-      <link>https://bioelectronics-mit.github.io/author/satoshi-okada/</link>
+      <link>http://bioelectronics.mit.edu/author/satoshi-okada/</link>
     </image>
     
     <item>
       <title>High-performance ferrite nanoparticles through nonaqueous redox phase tuning</title>
-      <link>https://bioelectronics-mit.github.io/publication/chen-2016-high/</link>
+      <link>http://bioelectronics.mit.edu/publication/chen-2016-high/</link>
       <pubDate>Wed, 10 Feb 2016 00:00:00 +0000</pubDate>
-      <guid>https://bioelectronics-mit.github.io/publication/chen-2016-high/</guid>
+      <guid>http://bioelectronics.mit.edu/publication/chen-2016-high/</guid>
       <description></description>
     </item>
     

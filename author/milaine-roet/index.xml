@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Milaine Roet | Biolelectronics at MIT</title>
-    <link>https://bioelectronics-mit.github.io/author/milaine-roet/</link>
-      <atom:link href="https://bioelectronics-mit.github.io/author/milaine-roet/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://bioelectronics.mit.edu/author/milaine-roet/</link>
+      <atom:link href="http://bioelectronics.mit.edu/author/milaine-roet/index.xml" rel="self" type="application/rss+xml" />
     <description>Milaine Roet</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 13 Mar 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://bioelectronics-mit.github.io/images/logo_hu824973b0e9eedfd7e339f3ab3f0c6ec4_36236_300x300_fit_lanczos_2.png</url>
+      <url>http://bioelectronics.mit.edu/images/logo_hu824973b0e9eedfd7e339f3ab3f0c6ec4_36236_300x300_fit_lanczos_2.png</url>
       <title>Milaine Roet</title>
-      <link>https://bioelectronics-mit.github.io/author/milaine-roet/</link>
+      <link>http://bioelectronics.mit.edu/author/milaine-roet/</link>
     </image>
     
     <item>
       <title>Progress in neuromodulation of the brain; a role for magnetic nanoparticles?</title>
-      <link>https://bioelectronics-mit.github.io/publication/roet-2019-progress/</link>
+      <link>http://bioelectronics.mit.edu/publication/roet-2019-progress/</link>
       <pubDate>Wed, 13 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://bioelectronics-mit.github.io/publication/roet-2019-progress/</guid>
+      <guid>http://bioelectronics.mit.edu/publication/roet-2019-progress/</guid>
       <description></description>
     </item>
     

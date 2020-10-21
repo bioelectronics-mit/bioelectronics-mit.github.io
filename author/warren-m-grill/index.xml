@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Warren M Grill | Biolelectronics at MIT</title>
-    <link>https://bioelectronics-mit.github.io/author/warren-m-grill/</link>
-      <atom:link href="https://bioelectronics-mit.github.io/author/warren-m-grill/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://bioelectronics.mit.edu/author/warren-m-grill/</link>
+      <atom:link href="http://bioelectronics.mit.edu/author/warren-m-grill/index.xml" rel="self" type="application/rss+xml" />
     <description>Warren M Grill</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 30 May 2014 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://bioelectronics-mit.github.io/images/logo_hu824973b0e9eedfd7e339f3ab3f0c6ec4_36236_300x300_fit_lanczos_2.png</url>
+      <url>http://bioelectronics.mit.edu/images/logo_hu824973b0e9eedfd7e339f3ab3f0c6ec4_36236_300x300_fit_lanczos_2.png</url>
       <title>Warren M Grill</title>
-      <link>https://bioelectronics-mit.github.io/author/warren-m-grill/</link>
+      <link>http://bioelectronics.mit.edu/author/warren-m-grill/</link>
     </image>
     
     <item>
       <title>Bioelectronic medicines: a research roadmap</title>
-      <link>https://bioelectronics-mit.github.io/publication/birmingham-2014-bioelectronic/</link>
+      <link>http://bioelectronics.mit.edu/publication/birmingham-2014-bioelectronic/</link>
       <pubDate>Fri, 30 May 2014 00:00:00 +0000</pubDate>
-      <guid>https://bioelectronics-mit.github.io/publication/birmingham-2014-bioelectronic/</guid>
+      <guid>http://bioelectronics.mit.edu/publication/birmingham-2014-bioelectronic/</guid>
       <description></description>
     </item>
     

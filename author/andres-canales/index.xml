@@ -2,77 +2,77 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Andres Canales | Biolelectronics at MIT</title>
-    <link>https://bioelectronics-mit.github.io/author/andres-canales/</link>
-      <atom:link href="https://bioelectronics-mit.github.io/author/andres-canales/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://bioelectronics.mit.edu/author/andres-canales/</link>
+      <atom:link href="http://bioelectronics.mit.edu/author/andres-canales/index.xml" rel="self" type="application/rss+xml" />
     <description>Andres Canales</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 20 Mar 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://bioelectronics-mit.github.io/images/logo_hu824973b0e9eedfd7e339f3ab3f0c6ec4_36236_300x300_fit_lanczos_2.png</url>
+      <url>http://bioelectronics.mit.edu/images/logo_hu824973b0e9eedfd7e339f3ab3f0c6ec4_36236_300x300_fit_lanczos_2.png</url>
       <title>Andres Canales</title>
-      <link>https://bioelectronics-mit.github.io/author/andres-canales/</link>
+      <link>http://bioelectronics.mit.edu/author/andres-canales/</link>
     </image>
     
     <item>
       <title>In vivo photopharmacology enabled by multifunctional fibers</title>
-      <link>https://bioelectronics-mit.github.io/publication/frank-2020-vivo/</link>
+      <link>http://bioelectronics.mit.edu/publication/frank-2020-vivo/</link>
       <pubDate>Fri, 20 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>https://bioelectronics-mit.github.io/publication/frank-2020-vivo/</guid>
+      <guid>http://bioelectronics.mit.edu/publication/frank-2020-vivo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Polymer-fiber-coupled field-effect sensors for label-free deep brain recordings</title>
-      <link>https://bioelectronics-mit.github.io/publication/guo-2020-polymer/</link>
+      <link>http://bioelectronics.mit.edu/publication/guo-2020-polymer/</link>
       <pubDate>Fri, 24 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://bioelectronics-mit.github.io/publication/guo-2020-polymer/</guid>
+      <guid>http://bioelectronics.mit.edu/publication/guo-2020-polymer/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Optogenetic entrainment of neural oscillations with hybrid fiber probes</title>
-      <link>https://bioelectronics-mit.github.io/publication/kilias-2018-optogenetic/</link>
+      <link>http://bioelectronics.mit.edu/publication/kilias-2018-optogenetic/</link>
       <pubDate>Wed, 11 Jul 2018 00:00:00 +0000</pubDate>
-      <guid>https://bioelectronics-mit.github.io/publication/kilias-2018-optogenetic/</guid>
+      <guid>http://bioelectronics.mit.edu/publication/kilias-2018-optogenetic/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Multifunctional fibers as tools for neuroscience and neuroengineering</title>
-      <link>https://bioelectronics-mit.github.io/publication/canales-2018-multifunctional/</link>
+      <link>http://bioelectronics.mit.edu/publication/canales-2018-multifunctional/</link>
       <pubDate>Wed, 21 Mar 2018 00:00:00 +0000</pubDate>
-      <guid>https://bioelectronics-mit.github.io/publication/canales-2018-multifunctional/</guid>
+      <guid>http://bioelectronics.mit.edu/publication/canales-2018-multifunctional/</guid>
       <description></description>
     </item>
     
     <item>
       <title>One-step optogenetics with multifunctional flexible polymer fibers</title>
-      <link>https://bioelectronics-mit.github.io/publication/park-2017-one/</link>
+      <link>http://bioelectronics.mit.edu/publication/park-2017-one/</link>
       <pubDate>Mon, 20 Feb 2017 00:00:00 +0000</pubDate>
-      <guid>https://bioelectronics-mit.github.io/publication/park-2017-one/</guid>
+      <guid>http://bioelectronics.mit.edu/publication/park-2017-one/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Neural recording and modulation technologies</title>
-      <link>https://bioelectronics-mit.github.io/publication/chen-2017-neural/</link>
+      <link>http://bioelectronics.mit.edu/publication/chen-2017-neural/</link>
       <pubDate>Wed, 04 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://bioelectronics-mit.github.io/publication/chen-2017-neural/</guid>
+      <guid>http://bioelectronics.mit.edu/publication/chen-2017-neural/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Multifunctional fibers for simultaneous optical, electrical and chemical interrogation of neural circuits in vivo</title>
-      <link>https://bioelectronics-mit.github.io/publication/canales-2015-multifunctional/</link>
+      <link>http://bioelectronics.mit.edu/publication/canales-2015-multifunctional/</link>
       <pubDate>Mon, 19 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>https://bioelectronics-mit.github.io/publication/canales-2015-multifunctional/</guid>
+      <guid>http://bioelectronics.mit.edu/publication/canales-2015-multifunctional/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Polymer fiber probes enable optical control of spinal cord and muscle function in vivo</title>
-      <link>https://bioelectronics-mit.github.io/publication/lu-2014-polymer/</link>
+      <link>http://bioelectronics.mit.edu/publication/lu-2014-polymer/</link>
       <pubDate>Tue, 26 Aug 2014 00:00:00 +0000</pubDate>
-      <guid>https://bioelectronics-mit.github.io/publication/lu-2014-polymer/</guid>
+      <guid>http://bioelectronics.mit.edu/publication/lu-2014-polymer/</guid>
       <description></description>
     </item>
     

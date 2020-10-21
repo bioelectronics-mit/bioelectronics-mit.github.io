@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Lisa A Gunaydin | Biolelectronics at MIT</title>
-    <link>https://bioelectronics-mit.github.io/author/lisa-a-gunaydin/</link>
-      <atom:link href="https://bioelectronics-mit.github.io/author/lisa-a-gunaydin/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://bioelectronics.mit.edu/author/lisa-a-gunaydin/</link>
+      <atom:link href="http://bioelectronics.mit.edu/author/lisa-a-gunaydin/index.xml" rel="self" type="application/rss+xml" />
     <description>Lisa A Gunaydin</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 19 Jun 2014 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://bioelectronics-mit.github.io/images/logo_hu824973b0e9eedfd7e339f3ab3f0c6ec4_36236_300x300_fit_lanczos_2.png</url>
+      <url>http://bioelectronics.mit.edu/images/logo_hu824973b0e9eedfd7e339f3ab3f0c6ec4_36236_300x300_fit_lanczos_2.png</url>
       <title>Lisa A Gunaydin</title>
-      <link>https://bioelectronics-mit.github.io/author/lisa-a-gunaydin/</link>
+      <link>http://bioelectronics.mit.edu/author/lisa-a-gunaydin/</link>
     </image>
     
     <item>
       <title>Natural neural projection dynamics underlying social behavior</title>
-      <link>https://bioelectronics-mit.github.io/publication/gunaydin-2014-natural/</link>
+      <link>http://bioelectronics.mit.edu/publication/gunaydin-2014-natural/</link>
       <pubDate>Thu, 19 Jun 2014 00:00:00 +0000</pubDate>
-      <guid>https://bioelectronics-mit.github.io/publication/gunaydin-2014-natural/</guid>
+      <guid>http://bioelectronics.mit.edu/publication/gunaydin-2014-natural/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Optetrode: a multichannel readout for optogenetic control in freely moving mice</title>
-      <link>https://bioelectronics-mit.github.io/publication/anikeeva-2011-optetrode/</link>
+      <link>http://bioelectronics.mit.edu/publication/anikeeva-2011-optetrode/</link>
       <pubDate>Sun, 04 Dec 2011 00:00:00 +0000</pubDate>
-      <guid>https://bioelectronics-mit.github.io/publication/anikeeva-2011-optetrode/</guid>
+      <guid>http://bioelectronics.mit.edu/publication/anikeeva-2011-optetrode/</guid>
       <description></description>
     </item>
     

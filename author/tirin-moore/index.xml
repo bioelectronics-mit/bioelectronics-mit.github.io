@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tirin Moore | Biolelectronics at MIT</title>
-    <link>https://bioelectronics-mit.github.io/author/tirin-moore/</link>
-      <atom:link href="https://bioelectronics-mit.github.io/author/tirin-moore/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://bioelectronics.mit.edu/author/tirin-moore/</link>
+      <atom:link href="http://bioelectronics.mit.edu/author/tirin-moore/index.xml" rel="self" type="application/rss+xml" />
     <description>Tirin Moore</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 02 May 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://bioelectronics-mit.github.io/images/logo_hu824973b0e9eedfd7e339f3ab3f0c6ec4_36236_300x300_fit_lanczos_2.png</url>
+      <url>http://bioelectronics.mit.edu/images/logo_hu824973b0e9eedfd7e339f3ab3f0c6ec4_36236_300x300_fit_lanczos_2.png</url>
       <title>Tirin Moore</title>
-      <link>https://bioelectronics-mit.github.io/author/tirin-moore/</link>
+      <link>http://bioelectronics.mit.edu/author/tirin-moore/</link>
     </image>
     
     <item>
       <title>Visions for the Future of Neuroscience</title>
-      <link>https://bioelectronics-mit.github.io/publication/moore-2018-visions/</link>
+      <link>http://bioelectronics.mit.edu/publication/moore-2018-visions/</link>
       <pubDate>Wed, 02 May 2018 00:00:00 +0000</pubDate>
-      <guid>https://bioelectronics-mit.github.io/publication/moore-2018-visions/</guid>
+      <guid>http://bioelectronics.mit.edu/publication/moore-2018-visions/</guid>
       <description></description>
     </item>
     

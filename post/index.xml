@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts | Biolelectronics at MIT</title>
-    <link>https://bioelectronics-mit.github.io/post/</link>
-      <atom:link href="https://bioelectronics-mit.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://bioelectronics.mit.edu/post/</link>
+      <atom:link href="http://bioelectronics.mit.edu/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 06 Jul 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://bioelectronics-mit.github.io/images/logo_hu824973b0e9eedfd7e339f3ab3f0c6ec4_36236_300x300_fit_lanczos_2.png</url>
+      <url>http://bioelectronics.mit.edu/images/logo_hu824973b0e9eedfd7e339f3ab3f0c6ec4_36236_300x300_fit_lanczos_2.png</url>
       <title>Posts</title>
-      <link>https://bioelectronics-mit.github.io/post/</link>
+      <link>http://bioelectronics.mit.edu/post/</link>
     </image>
     
     <item>
       <title>Gaseous Messenger Molecule</title>
-      <link>https://bioelectronics-mit.github.io/post/2020-gaseous-messenger-molecule/</link>
+      <link>http://bioelectronics.mit.edu/post/2020-gaseous-messenger-molecule/</link>
       <pubDate>Mon, 06 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://bioelectronics-mit.github.io/post/2020-gaseous-messenger-molecule/</guid>
+      <guid>http://bioelectronics.mit.edu/post/2020-gaseous-messenger-molecule/</guid>
       <description>&lt;p&gt;Nitric oxide is an important signaling molecule in the body, with a role in building nervous system connections that contribute to learning and memory. It also functions as a messenger in the cardiovascular and immune systems.&lt;/p&gt;
 &lt;p&gt;But it has been difficult for researchers to study exactly what its role is in these systems and how it functions. Because it is a gas, there has been no practical way to direct it to specific individual cells in order to observe its effects. Now, a team of scientists and engineers at MIT and elsewhere has found a way of generating the gas at precisely targeted locations inside the body, potentially opening new lines of research on this essential molecule’s effects.&lt;/p&gt;
 &lt;p&gt;The findings are reported today in the journal Nature Nanotechnology, in a paper by MIT professors Polina Anikeeva, Karthish Manthiram, and Yoel Fink; graduate student Jimin Park; postdoc Kyoungsuk Jin; and 10 others at MIT and in Taiwan, Japan, and Israel.&lt;/p&gt;
@@ -26,9 +26,9 @@
     
     <item>
       <title>Hormone Release</title>
-      <link>https://bioelectronics-mit.github.io/post/2020-hormone-release/</link>
+      <link>http://bioelectronics.mit.edu/post/2020-hormone-release/</link>
       <pubDate>Fri, 10 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>https://bioelectronics-mit.github.io/post/2020-hormone-release/</guid>
+      <guid>http://bioelectronics.mit.edu/post/2020-hormone-release/</guid>
       <description>&lt;p&gt;Abnormal levels of stress hormones such as adrenaline and cortisol are linked to a variety of mental health disorders, including depression and PTSD. MIT researchers, including the Anikeeva group, have now devised a way to remotely control the release of these hormones from the adrenal gland using magnetic nanoparticles.&lt;/p&gt;
 &lt;p&gt;To achieve control over hormone release, Dekel Rosenfeld, an MIT-Technion postdoc in Professor Anikeeva’s group, has developed specialized magnetic nanoparticles that can be injected into the adrenal gland. When exposed to a weak magnetic field, the particles heat up slightly, activating heat-responsive channels that trigger hormone release. This technique can be used to stimulate an organ deep in the body with minimal invasiveness.&lt;/p&gt;
 &lt;p&gt;The researchers now plan to use this approach to study how hormone release affects PTSD and other disorders, and they say that eventually it could be adapted for treating such disorders. This method would offer a much less invasive alternative to potential treatments that involve implanting a medical device to electrically stimulate hormone release, which is not feasible in organs such as the adrenal glands that are soft and highly vascularized.&lt;/p&gt;
@@ -38,9 +38,9 @@
     
     <item>
       <title>MacVicar Fellows 2020</title>
-      <link>https://bioelectronics-mit.github.io/post/2020-macvicar-fellow/</link>
+      <link>http://bioelectronics.mit.edu/post/2020-macvicar-fellow/</link>
       <pubDate>Tue, 10 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>https://bioelectronics-mit.github.io/post/2020-macvicar-fellow/</guid>
+      <guid>http://bioelectronics.mit.edu/post/2020-macvicar-fellow/</guid>
       <description>&lt;p&gt;Congratulations to Polina, who was named a 2020 MacVicar Fellow.&lt;/p&gt;
 &lt;p&gt;The MacVicar Fellowships are MIT&amp;rsquo;s highest teaching award, recognizing creativity and excellence in undergraduate education. The program was named after Margaret MacVicar, the first dean for undergraduate education and founder of the Undergraduate Research Opportunities Program (UROP). Nominations are made by departments and include letters of support from colleagues, students, and alumni. Fellows are appointed to 10-year terms in which they receive $10,000 per year of discretionary funds.&lt;/p&gt;
 &lt;p&gt;Professor Anikeeva is richly deserving of this honor; she is dedicated to Course 3 students, and they recognize how she believes in them, encourages them, and pushes them to do the best job possible. Students call her classes “incredibly hard” but fun and exciting at the same time. She is “the consummate scientist, splitting her time evenly between honing her craft, sharing knowledge with students and colleagues, and mentoring aspiring researchers,” wrote one. Other nomination letters recount Anikeeva&amp;rsquo;s passion and devotion to her work and students. Professor Anikeeva champions her students in faculty and committee meetings as well, advocating for their issues and best interests.&lt;/p&gt;
@@ -50,9 +50,9 @@
     
     <item>
       <title>Digital Learning Awards</title>
-      <link>https://bioelectronics-mit.github.io/post/2019-digital-learning/</link>
+      <link>http://bioelectronics.mit.edu/post/2019-digital-learning/</link>
       <pubDate>Tue, 20 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>https://bioelectronics-mit.github.io/post/2019-digital-learning/</guid>
+      <guid>http://bioelectronics.mit.edu/post/2019-digital-learning/</guid>
       <description>&lt;p&gt;Seven MIT educators, including DMSE lecturer Jessica Sandland and Professor Polina Anikeeva, have received awards this year for their significant digital learning innovations and their contributions to teaching and learning at MIT and around the world.&lt;/p&gt;
 &lt;p&gt;Professor Anikeeva and Jessica Sandland were both awarded the MITx Prize for Teaching and Learning in MOOCs (massive open online courses), which is given to educators who have developed MOOCs that share the best of MIT knowledge with learners around the world. They received this award for teaching 3.024x (Electronic, Optical, and Magnetic Properties of Materials). The course was praised for its global impact and the way it enhanced the residential experience.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;http://news.mit.edu/2019/seven-mit-educators-honored-digital-learning-innovation-0702&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Read the full story&lt;/a&gt;&lt;/p&gt;
@@ -61,9 +61,9 @@
     
     <item>
       <title>Artificial Muscles</title>
-      <link>https://bioelectronics-mit.github.io/post/2019-artificial-muscles/</link>
+      <link>http://bioelectronics.mit.edu/post/2019-artificial-muscles/</link>
       <pubDate>Thu, 11 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>https://bioelectronics-mit.github.io/post/2019-artificial-muscles/</guid>
+      <guid>http://bioelectronics.mit.edu/post/2019-artificial-muscles/</guid>
       <description>&lt;p&gt;MIT researchers, including professors Polina Anikeeva, Yoel Fink, and Cem Tasan, have developed a new fiber-based system that could be used as artificial muscles for robots, prosthetic limbs, or other mechanical and biomedical applications. Inspired by cucumber plants, which use their tightly-coiled tendrils to pull the plants upwards, this system utilizes a heat-activated coiling-and-pulling mechanism. Two materials that have different rates of thermal expansion are joined, causing the resulting fiber to form a tight coil with a surprisingly strong pulling force when even a small increase in temperature is applied. This process of contracting and expanding was shown in testing to maintain its strength even after repeating 10,000 times.&lt;/p&gt;
 &lt;p&gt;These fibers can span a wide range of sizes, and can easily be manufactured in batches up to hundreds of meters long. They are extremely lightweight and can respond quickly. Such fibers could be useful as actuators in robotic arms, legs, or grippers, as well as in prosthetic limbs, although postdoc Mehmet Kanik says that the possibilities for materials of this type are virtually limitless.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;http://news.mit.edu/2019/artificial-fiber-muscles-0711&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Read the full story&lt;/a&gt;&lt;/p&gt;
@@ -72,9 +72,9 @@
     
     <item>
       <title>Vilcek Prize</title>
-      <link>https://bioelectronics-mit.github.io/post/2018-vilvek-prize/</link>
+      <link>http://bioelectronics.mit.edu/post/2018-vilvek-prize/</link>
       <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
-      <guid>https://bioelectronics-mit.github.io/post/2018-vilvek-prize/</guid>
+      <guid>http://bioelectronics.mit.edu/post/2018-vilvek-prize/</guid>
       <description>&lt;p align=&#34;center&#34;&gt;
 &lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/gUR7uqhmxW0&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
 &lt;/p&gt;

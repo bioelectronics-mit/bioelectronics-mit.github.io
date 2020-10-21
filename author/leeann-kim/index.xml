@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>LeeAnn Kim | Biolelectronics at MIT</title>
-    <link>https://bioelectronics-mit.github.io/author/leeann-kim/</link>
-      <atom:link href="https://bioelectronics-mit.github.io/author/leeann-kim/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://bioelectronics.mit.edu/author/leeann-kim/</link>
+      <atom:link href="http://bioelectronics.mit.edu/author/leeann-kim/index.xml" rel="self" type="application/rss+xml" />
     <description>LeeAnn Kim</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 10 Dec 2008 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://bioelectronics-mit.github.io/images/logo_hu824973b0e9eedfd7e339f3ab3f0c6ec4_36236_300x300_fit_lanczos_2.png</url>
+      <url>http://bioelectronics.mit.edu/images/logo_hu824973b0e9eedfd7e339f3ab3f0c6ec4_36236_300x300_fit_lanczos_2.png</url>
       <title>LeeAnn Kim</title>
-      <link>https://bioelectronics-mit.github.io/author/leeann-kim/</link>
+      <link>http://bioelectronics.mit.edu/author/leeann-kim/</link>
     </image>
     
     <item>
       <title>Contact printing of quantum dot light-emitting devices</title>
-      <link>https://bioelectronics-mit.github.io/publication/kim-2008-contact/</link>
+      <link>http://bioelectronics.mit.edu/publication/kim-2008-contact/</link>
       <pubDate>Wed, 10 Dec 2008 00:00:00 +0000</pubDate>
-      <guid>https://bioelectronics-mit.github.io/publication/kim-2008-contact/</guid>
+      <guid>http://bioelectronics.mit.edu/publication/kim-2008-contact/</guid>
       <description></description>
     </item>
     

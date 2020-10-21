@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Thang Pham | Biolelectronics at MIT</title>
-    <link>https://bioelectronics-mit.github.io/author/thang-pham/</link>
-      <atom:link href="https://bioelectronics-mit.github.io/author/thang-pham/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://bioelectronics.mit.edu/author/thang-pham/</link>
+      <atom:link href="http://bioelectronics.mit.edu/author/thang-pham/index.xml" rel="self" type="application/rss+xml" />
     <description>Thang Pham</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 27 Aug 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://bioelectronics-mit.github.io/images/logo_hu824973b0e9eedfd7e339f3ab3f0c6ec4_36236_300x300_fit_lanczos_2.png</url>
+      <url>http://bioelectronics.mit.edu/images/logo_hu824973b0e9eedfd7e339f3ab3f0c6ec4_36236_300x300_fit_lanczos_2.png</url>
       <title>Thang Pham</title>
-      <link>https://bioelectronics-mit.github.io/author/thang-pham/</link>
+      <link>http://bioelectronics.mit.edu/author/thang-pham/</link>
     </image>
     
     <item>
       <title>Direct Imaging and Electronic Structure Modulation of Double Moiré Superlattices at the 2D/3D Interface</title>
-      <link>https://bioelectronics-mit.github.io/publication/varnavides-2020-direct/</link>
+      <link>http://bioelectronics.mit.edu/publication/varnavides-2020-direct/</link>
       <pubDate>Thu, 27 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>https://bioelectronics-mit.github.io/publication/varnavides-2020-direct/</guid>
+      <guid>http://bioelectronics.mit.edu/publication/varnavides-2020-direct/</guid>
       <description></description>
     </item>
     

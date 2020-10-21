@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories | Biolelectronics at MIT</title>
-    <link>https://bioelectronics-mit.github.io/categories/</link>
-      <atom:link href="https://bioelectronics-mit.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://bioelectronics.mit.edu/categories/</link>
+      <atom:link href="http://bioelectronics.mit.edu/categories/index.xml" rel="self" type="application/rss+xml" />
     <description>Categories</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 06 Jul 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://bioelectronics-mit.github.io/images/logo_hu824973b0e9eedfd7e339f3ab3f0c6ec4_36236_300x300_fit_lanczos_2.png</url>
+      <url>http://bioelectronics.mit.edu/images/logo_hu824973b0e9eedfd7e339f3ab3f0c6ec4_36236_300x300_fit_lanczos_2.png</url>
       <title>Categories</title>
-      <link>https://bioelectronics-mit.github.io/categories/</link>
+      <link>http://bioelectronics.mit.edu/categories/</link>
     </image>
     
   </channel>
