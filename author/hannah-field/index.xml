@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hannah Field | Biolelectronics at MIT</title>
-    <link>http://bioelectronics.mit.edu/author/hannah-field/</link>
-      <atom:link href="http://bioelectronics.mit.edu/author/hannah-field/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://bioelectronics.mit.edu/author/hannah-field/</link>
+      <atom:link href="https://bioelectronics.mit.edu/author/hannah-field/index.xml" rel="self" type="application/rss+xml" />
     <description>Hannah Field</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
     <image>
-      <url>http://bioelectronics.mit.edu/images/logo_hu824973b0e9eedfd7e339f3ab3f0c6ec4_36236_300x300_fit_lanczos_2.png</url>
+      <url>https://bioelectronics.mit.edu/images/logo_hu824973b0e9eedfd7e339f3ab3f0c6ec4_36236_300x300_fit_lanczos_2.png</url>
       <title>Hannah Field</title>
-      <link>http://bioelectronics.mit.edu/author/hannah-field/</link>
+      <link>https://bioelectronics.mit.edu/author/hannah-field/</link>
     </image>
     
   </channel>

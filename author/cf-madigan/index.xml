@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>CF Madigan | Biolelectronics at MIT</title>
-    <link>http://bioelectronics.mit.edu/author/cf-madigan/</link>
-      <atom:link href="http://bioelectronics.mit.edu/author/cf-madigan/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://bioelectronics.mit.edu/author/cf-madigan/</link>
+      <atom:link href="https://bioelectronics.mit.edu/author/cf-madigan/index.xml" rel="self" type="application/rss+xml" />
     <description>CF Madigan</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 27 Aug 2008 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://bioelectronics.mit.edu/images/logo_hu824973b0e9eedfd7e339f3ab3f0c6ec4_36236_300x300_fit_lanczos_2.png</url>
+      <url>https://bioelectronics.mit.edu/images/logo_hu824973b0e9eedfd7e339f3ab3f0c6ec4_36236_300x300_fit_lanczos_2.png</url>
       <title>CF Madigan</title>
-      <link>http://bioelectronics.mit.edu/author/cf-madigan/</link>
+      <link>https://bioelectronics.mit.edu/author/cf-madigan/</link>
     </image>
     
     <item>
       <title>Electronic and excitonic processes in light-emitting devices based on organic materials and colloidal quantum dots</title>
-      <link>http://bioelectronics.mit.edu/publication/anikeeva-2008-electronic/</link>
+      <link>https://bioelectronics.mit.edu/publication/anikeeva-2008-electronic/</link>
       <pubDate>Wed, 27 Aug 2008 00:00:00 +0000</pubDate>
-      <guid>http://bioelectronics.mit.edu/publication/anikeeva-2008-electronic/</guid>
+      <guid>https://bioelectronics.mit.edu/publication/anikeeva-2008-electronic/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Photoluminescence of CdSe/ZnS core/shell quantum dots enhanced by energy transfer from a phosphorescent donor</title>
-      <link>http://bioelectronics.mit.edu/publication/anikeeva-2006-photoluminescence/</link>
+      <link>https://bioelectronics.mit.edu/publication/anikeeva-2006-photoluminescence/</link>
       <pubDate>Mon, 12 Jun 2006 00:00:00 +0000</pubDate>
-      <guid>http://bioelectronics.mit.edu/publication/anikeeva-2006-photoluminescence/</guid>
+      <guid>https://bioelectronics.mit.edu/publication/anikeeva-2006-photoluminescence/</guid>
       <description></description>
     </item>
     

@@ -2,61 +2,61 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Georgios Varnavides | Biolelectronics at MIT</title>
-    <link>http://bioelectronics.mit.edu/author/georgios-varnavides/</link>
-      <atom:link href="http://bioelectronics.mit.edu/author/georgios-varnavides/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://bioelectronics.mit.edu/author/georgios-varnavides/</link>
+      <atom:link href="https://bioelectronics.mit.edu/author/georgios-varnavides/index.xml" rel="self" type="application/rss+xml" />
     <description>Georgios Varnavides</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 18 Sep 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://bioelectronics.mit.edu/images/logo_hu824973b0e9eedfd7e339f3ab3f0c6ec4_36236_300x300_fit_lanczos_2.png</url>
+      <url>https://bioelectronics.mit.edu/images/logo_hu824973b0e9eedfd7e339f3ab3f0c6ec4_36236_300x300_fit_lanczos_2.png</url>
       <title>Georgios Varnavides</title>
-      <link>http://bioelectronics.mit.edu/author/georgios-varnavides/</link>
+      <link>https://bioelectronics.mit.edu/author/georgios-varnavides/</link>
     </image>
     
     <item>
       <title>Electron hydrodynamics in anisotropic materials</title>
-      <link>http://bioelectronics.mit.edu/publication/varnavides-2020-generalized/</link>
+      <link>https://bioelectronics.mit.edu/publication/varnavides-2020-generalized/</link>
       <pubDate>Fri, 18 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>http://bioelectronics.mit.edu/publication/varnavides-2020-generalized/</guid>
+      <guid>https://bioelectronics.mit.edu/publication/varnavides-2020-generalized/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Imaging phonon-mediated hydrodynamic flow in WTe2 with cryogenic quantum magnetometry</title>
-      <link>http://bioelectronics.mit.edu/publication/varnavides-2020-imaging/</link>
+      <link>https://bioelectronics.mit.edu/publication/varnavides-2020-imaging/</link>
       <pubDate>Wed, 09 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>http://bioelectronics.mit.edu/publication/varnavides-2020-imaging/</guid>
+      <guid>https://bioelectronics.mit.edu/publication/varnavides-2020-imaging/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Direct Imaging and Electronic Structure Modulation of Double Moiré Superlattices at the 2D/3D Interface</title>
-      <link>http://bioelectronics.mit.edu/publication/varnavides-2020-direct/</link>
+      <link>https://bioelectronics.mit.edu/publication/varnavides-2020-direct/</link>
       <pubDate>Thu, 27 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>http://bioelectronics.mit.edu/publication/varnavides-2020-direct/</guid>
+      <guid>https://bioelectronics.mit.edu/publication/varnavides-2020-direct/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Magnetothermal Multiplexing for Selective Remote Control of Cell Signaling</title>
-      <link>http://bioelectronics.mit.edu/publication/moon-2020-magneothermal/</link>
+      <link>https://bioelectronics.mit.edu/publication/moon-2020-magneothermal/</link>
       <pubDate>Fri, 10 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>http://bioelectronics.mit.edu/publication/moon-2020-magneothermal/</guid>
+      <guid>https://bioelectronics.mit.edu/publication/moon-2020-magneothermal/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Magnetic Vortex Nanodiscs Enable Remote Magnetomechanical Neural Stimulation</title>
-      <link>http://bioelectronics.mit.edu/publication/gregurec-2019-tuning/</link>
+      <link>https://bioelectronics.mit.edu/publication/gregurec-2019-tuning/</link>
       <pubDate>Fri, 19 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>http://bioelectronics.mit.edu/publication/gregurec-2019-tuning/</guid>
+      <guid>https://bioelectronics.mit.edu/publication/gregurec-2019-tuning/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hormone Release</title>
-      <link>http://bioelectronics.mit.edu/post/2020-hormone-release/</link>
+      <link>https://bioelectronics.mit.edu/post/2020-hormone-release/</link>
       <pubDate>Fri, 10 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>http://bioelectronics.mit.edu/post/2020-hormone-release/</guid>
+      <guid>https://bioelectronics.mit.edu/post/2020-hormone-release/</guid>
       <description>&lt;p&gt;Abnormal levels of stress hormones such as adrenaline and cortisol are linked to a variety of mental health disorders, including depression and PTSD. MIT researchers, including the Anikeeva group, have now devised a way to remotely control the release of these hormones from the adrenal gland using magnetic nanoparticles.&lt;/p&gt;
 &lt;p&gt;To achieve control over hormone release, Dekel Rosenfeld, an MIT-Technion postdoc in Professor Anikeeva’s group, has developed specialized magnetic nanoparticles that can be injected into the adrenal gland. When exposed to a weak magnetic field, the particles heat up slightly, activating heat-responsive channels that trigger hormone release. This technique can be used to stimulate an organ deep in the body with minimal invasiveness.&lt;/p&gt;
 &lt;p&gt;The researchers now plan to use this approach to study how hormone release affects PTSD and other disorders, and they say that eventually it could be adapted for treating such disorders. This method would offer a much less invasive alternative to potential treatments that involve implanting a medical device to electrically stimulate hormone release, which is not feasible in organs such as the adrenal glands that are soft and highly vascularized.&lt;/p&gt;
@@ -66,41 +66,41 @@
     
     <item>
       <title>Transgene-free remote magnetothermal regulation of adrenal hormones</title>
-      <link>http://bioelectronics.mit.edu/publication/rosenfeld-2020-transgene/</link>
+      <link>https://bioelectronics.mit.edu/publication/rosenfeld-2020-transgene/</link>
       <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>http://bioelectronics.mit.edu/publication/rosenfeld-2020-transgene/</guid>
+      <guid>https://bioelectronics.mit.edu/publication/rosenfeld-2020-transgene/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Nonequilibrium phonon transport across nanoscale interfaces</title>
-      <link>http://bioelectronics.mit.edu/publication/varnavides-2019-nonequilibrium/</link>
+      <link>https://bioelectronics.mit.edu/publication/varnavides-2019-nonequilibrium/</link>
       <pubDate>Tue, 03 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>http://bioelectronics.mit.edu/publication/varnavides-2019-nonequilibrium/</guid>
+      <guid>https://bioelectronics.mit.edu/publication/varnavides-2019-nonequilibrium/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Remotely controlled chemomagnetic modulation of targeted neural circuits</title>
-      <link>http://bioelectronics.mit.edu/publication/rao-2019-remotely/</link>
+      <link>https://bioelectronics.mit.edu/publication/rao-2019-remotely/</link>
       <pubDate>Mon, 19 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>http://bioelectronics.mit.edu/publication/rao-2019-remotely/</guid>
+      <guid>https://bioelectronics.mit.edu/publication/rao-2019-remotely/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Strain-programmable fiber-based artificial muscle</title>
-      <link>http://bioelectronics.mit.edu/publication/kanik-2019-strain/</link>
+      <link>https://bioelectronics.mit.edu/publication/kanik-2019-strain/</link>
       <pubDate>Fri, 12 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>http://bioelectronics.mit.edu/publication/kanik-2019-strain/</guid>
+      <guid>https://bioelectronics.mit.edu/publication/kanik-2019-strain/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Artificial Muscles</title>
-      <link>http://bioelectronics.mit.edu/post/2019-artificial-muscles/</link>
+      <link>https://bioelectronics.mit.edu/post/2019-artificial-muscles/</link>
       <pubDate>Thu, 11 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>http://bioelectronics.mit.edu/post/2019-artificial-muscles/</guid>
+      <guid>https://bioelectronics.mit.edu/post/2019-artificial-muscles/</guid>
       <description>&lt;p&gt;MIT researchers, including professors Polina Anikeeva, Yoel Fink, and Cem Tasan, have developed a new fiber-based system that could be used as artificial muscles for robots, prosthetic limbs, or other mechanical and biomedical applications. Inspired by cucumber plants, which use their tightly-coiled tendrils to pull the plants upwards, this system utilizes a heat-activated coiling-and-pulling mechanism. Two materials that have different rates of thermal expansion are joined, causing the resulting fiber to form a tight coil with a surprisingly strong pulling force when even a small increase in temperature is applied. This process of contracting and expanding was shown in testing to maintain its strength even after repeating 10,000 times.&lt;/p&gt;
 &lt;p&gt;These fibers can span a wide range of sizes, and can easily be manufactured in batches up to hundreds of meters long. They are extremely lightweight and can respond quickly. Such fibers could be useful as actuators in robotic arms, legs, or grippers, as well as in prosthetic limbs, although postdoc Mehmet Kanik says that the possibilities for materials of this type are virtually limitless.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;http://news.mit.edu/2019/artificial-fiber-muscles-0711&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Read the full story&lt;/a&gt;&lt;/p&gt;
