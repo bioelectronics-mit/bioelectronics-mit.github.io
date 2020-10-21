@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Eugenia Ciocan | Biolelectronics at MIT</title>
-    <link>https://bioelectronics.mit.edu/author/eugenia-ciocan/</link>
-      <atom:link href="https://bioelectronics.mit.edu/author/eugenia-ciocan/index.xml" rel="self" type="application/rss+xml" />
-    <description>Eugenia Ciocan</description>
+    <title>Magnetic Nanodiscs | Biolelectronics at MIT</title>
+    <link>https://bioelectronics.mit.edu/tag/magnetic-nanodiscs/</link>
+      <atom:link href="https://bioelectronics.mit.edu/tag/magnetic-nanodiscs/index.xml" rel="self" type="application/rss+xml" />
+    <description>Magnetic Nanodiscs</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 19 Jul 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://bioelectronics.mit.edu/images/logo_hu824973b0e9eedfd7e339f3ab3f0c6ec4_36236_300x300_fit_lanczos_2.png</url>
-      <title>Eugenia Ciocan</title>
-      <link>https://bioelectronics.mit.edu/author/eugenia-ciocan/</link>
+      <title>Magnetic Nanodiscs</title>
+      <link>https://bioelectronics.mit.edu/tag/magnetic-nanodiscs/</link>
     </image>
     
     <item>
@@ -22,14 +22,6 @@
 &lt;p&gt;The finding is reported in the journal ACS Nano, in a paper by former MIT postdoc Danijela Gregurec, Alexander Senko PhD ’19, Associate Professor Polina Anikeeva, and nine others at MIT, at Boston’s Brigham and Women’s Hospital, and in Spain.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://news.mit.edu/2020/neural-cell-stimulation-magnet-0720&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Read the full story&lt;/a&gt;&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Magnetic Vortex Nanodiscs Enable Remote Magnetomechanical Neural Stimulation</title>
-      <link>https://bioelectronics.mit.edu/publication/gregurec-2019-tuning/</link>
-      <pubDate>Fri, 19 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>https://bioelectronics.mit.edu/publication/gregurec-2019-tuning/</guid>
-      <description></description>
     </item>
     
   </channel>
