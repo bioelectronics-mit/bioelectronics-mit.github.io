@@ -5,12 +5,20 @@
     <link>https://bioelectronics.mit.edu/author/yoel-fink/</link>
       <atom:link href="https://bioelectronics.mit.edu/author/yoel-fink/index.xml" rel="self" type="application/rss+xml" />
     <description>Yoel Fink</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 06 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 25 Nov 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://bioelectronics.mit.edu/images/logo_hu824973b0e9eedfd7e339f3ab3f0c6ec4_36236_300x300_fit_lanczos_2.png</url>
       <title>Yoel Fink</title>
       <link>https://bioelectronics.mit.edu/author/yoel-fink/</link>
     </image>
+    
+    <item>
+      <title>Selectively Micro-Patternable Fibers via In-Fiber Photolithography</title>
+      <link>https://bioelectronics.mit.edu/publication/lee-2020-photolithography/</link>
+      <pubDate>Wed, 25 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://bioelectronics.mit.edu/publication/lee-2020-photolithography/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Gaseous Messenger Molecule</title>
