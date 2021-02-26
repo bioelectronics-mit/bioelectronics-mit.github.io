@@ -5,7 +5,7 @@
     <link>https://bioelectronics.mit.edu/author/polina-anikeeva/</link>
       <atom:link href="https://bioelectronics.mit.edu/author/polina-anikeeva/index.xml" rel="self" type="application/rss+xml" />
     <description>Polina Anikeeva</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 25 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 26 Feb 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://bioelectronics.mit.edu/images/logo_hu824973b0e9eedfd7e339f3ab3f0c6ec4_36236_300x300_fit_lanczos_2.png</url>
       <title>Polina Anikeeva</title>
@@ -45,6 +45,14 @@
     </item>
     
     <item>
+      <title>Direct Imaging and Electronic Structure Modulation of moiré Superlattices at the 2D/3D Interface</title>
+      <link>https://bioelectronics.mit.edu/publication/varnavides-2021-direct/</link>
+      <pubDate>Fri, 26 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://bioelectronics.mit.edu/publication/varnavides-2021-direct/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Selectively Micro-Patternable Fibers via In-Fiber Photolithography</title>
       <link>https://bioelectronics.mit.edu/publication/lee-2020-photolithography/</link>
       <pubDate>Wed, 25 Nov 2020 00:00:00 +0000</pubDate>
@@ -65,14 +73,6 @@
       <link>https://bioelectronics.mit.edu/publication/varnavides-2020-imaging/</link>
       <pubDate>Wed, 09 Sep 2020 00:00:00 +0000</pubDate>
       <guid>https://bioelectronics.mit.edu/publication/varnavides-2020-imaging/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Direct Imaging and Electronic Structure Modulation of Double Moiré Superlattices at the 2D/3D Interface</title>
-      <link>https://bioelectronics.mit.edu/publication/varnavides-2020-direct/</link>
-      <pubDate>Thu, 27 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>https://bioelectronics.mit.edu/publication/varnavides-2020-direct/</guid>
       <description></description>
     </item>
     
