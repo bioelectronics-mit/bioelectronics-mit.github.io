@@ -5,7 +5,7 @@
     <link>https://bioelectronics.mit.edu/author/yoel-fink/</link>
       <atom:link href="https://bioelectronics.mit.edu/author/yoel-fink/index.xml" rel="self" type="application/rss+xml" />
     <description>Yoel Fink</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 25 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 18 May 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://bioelectronics.mit.edu/images/logo_hu824973b0e9eedfd7e339f3ab3f0c6ec4_36236_300x300_fit_lanczos_2.png</url>
       <title>Yoel Fink</title>
@@ -13,10 +13,26 @@
     </image>
     
     <item>
+      <title>Customizing Multifunctional Neural Interfaces through Thermal Drawing Process</title>
+      <link>https://bioelectronics.mit.edu/publication/antonini-2021-customizing/</link>
+      <pubDate>Tue, 18 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://bioelectronics.mit.edu/publication/antonini-2021-customizing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Selectively Micro-Patternable Fibers via In-Fiber Photolithography</title>
       <link>https://bioelectronics.mit.edu/publication/lee-2020-photolithography/</link>
       <pubDate>Wed, 25 Nov 2020 00:00:00 +0000</pubDate>
       <guid>https://bioelectronics.mit.edu/publication/lee-2020-photolithography/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>In vivo photopharmacology enabled by multifunctional fibers</title>
+      <link>https://bioelectronics.mit.edu/publication/frank-2020-vivo/</link>
+      <pubDate>Tue, 27 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://bioelectronics.mit.edu/publication/frank-2020-vivo/</guid>
       <description></description>
     </item>
     
@@ -37,14 +53,6 @@
       <link>https://bioelectronics.mit.edu/publication/park-2020-in-situ/</link>
       <pubDate>Mon, 29 Jun 2020 00:00:00 +0000</pubDate>
       <guid>https://bioelectronics.mit.edu/publication/park-2020-in-situ/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>In vivo photopharmacology enabled by multifunctional fibers</title>
-      <link>https://bioelectronics.mit.edu/publication/frank-2020-vivo/</link>
-      <pubDate>Fri, 20 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>https://bioelectronics.mit.edu/publication/frank-2020-vivo/</guid>
       <description></description>
     </item>
     

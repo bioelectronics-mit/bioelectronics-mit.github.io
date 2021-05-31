@@ -5,12 +5,28 @@
     <link>https://bioelectronics.mit.edu/author/florian-koehler/</link>
       <atom:link href="https://bioelectronics.mit.edu/author/florian-koehler/index.xml" rel="self" type="application/rss+xml" />
     <description>Florian Koehler</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 10 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 07 May 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://bioelectronics.mit.edu/images/logo_hu824973b0e9eedfd7e339f3ab3f0c6ec4_36236_300x300_fit_lanczos_2.png</url>
       <title>Florian Koehler</title>
       <link>https://bioelectronics.mit.edu/author/florian-koehler/</link>
     </image>
+    
+    <item>
+      <title>Modular Integration of Hydrogel Neural Interfaces</title>
+      <link>https://bioelectronics.mit.edu/publication/tabet-2021-modular/</link>
+      <pubDate>Fri, 07 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://bioelectronics.mit.edu/publication/tabet-2021-modular/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>In vivo photopharmacology enabled by multifunctional fibers</title>
+      <link>https://bioelectronics.mit.edu/publication/frank-2020-vivo/</link>
+      <pubDate>Tue, 27 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://bioelectronics.mit.edu/publication/frank-2020-vivo/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Remotely controlled proton generation for neuromodulation</title>
@@ -57,14 +73,6 @@
       <link>https://bioelectronics.mit.edu/publication/rosenfeld-2020-transgene/</link>
       <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
       <guid>https://bioelectronics.mit.edu/publication/rosenfeld-2020-transgene/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>In vivo photopharmacology enabled by multifunctional fibers</title>
-      <link>https://bioelectronics.mit.edu/publication/frank-2020-vivo/</link>
-      <pubDate>Fri, 20 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>https://bioelectronics.mit.edu/publication/frank-2020-vivo/</guid>
       <description></description>
     </item>
     

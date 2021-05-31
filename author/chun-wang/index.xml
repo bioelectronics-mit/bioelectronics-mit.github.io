@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chun Wang | Biolelectronics at MIT</title>
+    <link>https://bioelectronics.mit.edu/author/chun-wang/</link>
+      <atom:link href="https://bioelectronics.mit.edu/author/chun-wang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Chun Wang</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 07 May 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://bioelectronics.mit.edu/images/logo_hu824973b0e9eedfd7e339f3ab3f0c6ec4_36236_300x300_fit_lanczos_2.png</url>
+      <title>Chun Wang</title>
+      <link>https://bioelectronics.mit.edu/author/chun-wang/</link>
+    </image>
+    
+    <item>
+      <title>Modular Integration of Hydrogel Neural Interfaces</title>
+      <link>https://bioelectronics.mit.edu/publication/tabet-2021-modular/</link>
+      <pubDate>Fri, 07 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://bioelectronics.mit.edu/publication/tabet-2021-modular/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

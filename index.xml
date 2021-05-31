@@ -5,7 +5,7 @@
     <link>https://bioelectronics.mit.edu/</link>
       <atom:link href="https://bioelectronics.mit.edu/index.xml" rel="self" type="application/rss+xml" />
     <description>Biolelectronics at MIT</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 26 Feb 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 18 May 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://bioelectronics.mit.edu/images/logo_hu824973b0e9eedfd7e339f3ab3f0c6ec4_36236_300x300_fit_lanczos_2.png</url>
       <title>Biolelectronics at MIT</title>
@@ -45,6 +45,30 @@
     </item>
     
     <item>
+      <title>Customizing Multifunctional Neural Interfaces through Thermal Drawing Process</title>
+      <link>https://bioelectronics.mit.edu/publication/antonini-2021-customizing/</link>
+      <pubDate>Tue, 18 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://bioelectronics.mit.edu/publication/antonini-2021-customizing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modular Integration of Hydrogel Neural Interfaces</title>
+      <link>https://bioelectronics.mit.edu/publication/tabet-2021-modular/</link>
+      <pubDate>Fri, 07 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://bioelectronics.mit.edu/publication/tabet-2021-modular/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fiber-Based Electrochemical Biosensors for Monitoring pH and Transient Neurometabolic Lactate</title>
+      <link>https://bioelectronics.mit.edu/publication/booth-2021-fiber/</link>
+      <pubDate>Fri, 02 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://bioelectronics.mit.edu/publication/booth-2021-fiber/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Direct Imaging and Electronic Structure Modulation of moiré Superlattices at the 2D/3D Interface</title>
       <link>https://bioelectronics.mit.edu/publication/varnavides-2021-direct/</link>
       <pubDate>Fri, 26 Feb 2021 00:00:00 +0000</pubDate>
@@ -53,10 +77,34 @@
     </item>
     
     <item>
+      <title>Functional Skeletal Muscle Regeneration with Thermally Drawn Porous Fibers and Reprogrammed Muscle Progenitors for Volumetric Muscle Injury</title>
+      <link>https://bioelectronics.mit.edu/publication/yoonhee-2021-functional/</link>
+      <pubDate>Fri, 19 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://bioelectronics.mit.edu/publication/yoonhee-2021-functional/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Selectively Micro-Patternable Fibers via In-Fiber Photolithography</title>
       <link>https://bioelectronics.mit.edu/publication/lee-2020-photolithography/</link>
       <pubDate>Wed, 25 Nov 2020 00:00:00 +0000</pubDate>
       <guid>https://bioelectronics.mit.edu/publication/lee-2020-photolithography/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Emerging Frontier of Peripheral Nerve and Organ Interfaces</title>
+      <link>https://bioelectronics.mit.edu/publication/shahriari-2020-emerging/</link>
+      <pubDate>Wed, 28 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://bioelectronics.mit.edu/publication/shahriari-2020-emerging/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>In vivo photopharmacology enabled by multifunctional fibers</title>
+      <link>https://bioelectronics.mit.edu/publication/frank-2020-vivo/</link>
+      <pubDate>Tue, 27 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://bioelectronics.mit.edu/publication/frank-2020-vivo/</guid>
       <description></description>
     </item>
     
@@ -165,14 +213,6 @@
       <link>https://bioelectronics.mit.edu/publication/rosenfeld-2020-transgene/</link>
       <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
       <guid>https://bioelectronics.mit.edu/publication/rosenfeld-2020-transgene/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>In vivo photopharmacology enabled by multifunctional fibers</title>
-      <link>https://bioelectronics.mit.edu/publication/frank-2020-vivo/</link>
-      <pubDate>Fri, 20 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>https://bioelectronics.mit.edu/publication/frank-2020-vivo/</guid>
       <description></description>
     </item>
     

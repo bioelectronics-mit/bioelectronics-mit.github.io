@@ -5,12 +5,36 @@
     <link>https://bioelectronics.mit.edu/author/dekel-rosenfeld/</link>
       <atom:link href="https://bioelectronics.mit.edu/author/dekel-rosenfeld/index.xml" rel="self" type="application/rss+xml" />
     <description>Dekel Rosenfeld</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 19 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 18 May 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://bioelectronics.mit.edu/images/logo_hu824973b0e9eedfd7e339f3ab3f0c6ec4_36236_300x300_fit_lanczos_2.png</url>
       <title>Dekel Rosenfeld</title>
       <link>https://bioelectronics.mit.edu/author/dekel-rosenfeld/</link>
     </image>
+    
+    <item>
+      <title>Customizing Multifunctional Neural Interfaces through Thermal Drawing Process</title>
+      <link>https://bioelectronics.mit.edu/publication/antonini-2021-customizing/</link>
+      <pubDate>Tue, 18 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://bioelectronics.mit.edu/publication/antonini-2021-customizing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modular Integration of Hydrogel Neural Interfaces</title>
+      <link>https://bioelectronics.mit.edu/publication/tabet-2021-modular/</link>
+      <pubDate>Fri, 07 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://bioelectronics.mit.edu/publication/tabet-2021-modular/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Emerging Frontier of Peripheral Nerve and Organ Interfaces</title>
+      <link>https://bioelectronics.mit.edu/publication/shahriari-2020-emerging/</link>
+      <pubDate>Wed, 28 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://bioelectronics.mit.edu/publication/shahriari-2020-emerging/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Mechanical Way to Stimulate Neurons</title>

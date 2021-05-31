@@ -5,12 +5,28 @@
     <link>https://bioelectronics.mit.edu/author/seongjun-park/</link>
       <atom:link href="https://bioelectronics.mit.edu/author/seongjun-park/index.xml" rel="self" type="application/rss+xml" />
     <description>Seongjun Park</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 10 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 02 Apr 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://bioelectronics.mit.edu/images/logo_hu824973b0e9eedfd7e339f3ab3f0c6ec4_36236_300x300_fit_lanczos_2.png</url>
       <title>Seongjun Park</title>
       <link>https://bioelectronics.mit.edu/author/seongjun-park/</link>
     </image>
+    
+    <item>
+      <title>Fiber-Based Electrochemical Biosensors for Monitoring pH and Transient Neurometabolic Lactate</title>
+      <link>https://bioelectronics.mit.edu/publication/booth-2021-fiber/</link>
+      <pubDate>Fri, 02 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://bioelectronics.mit.edu/publication/booth-2021-fiber/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Functional Skeletal Muscle Regeneration with Thermally Drawn Porous Fibers and Reprogrammed Muscle Progenitors for Volumetric Muscle Injury</title>
+      <link>https://bioelectronics.mit.edu/publication/yoonhee-2021-functional/</link>
+      <pubDate>Fri, 19 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://bioelectronics.mit.edu/publication/yoonhee-2021-functional/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Magnetothermal Multiplexing for Selective Remote Control of Cell Signaling</title>
