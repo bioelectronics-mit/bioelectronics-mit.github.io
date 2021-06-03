@@ -5,12 +5,20 @@
     <link>https://bioelectronics.mit.edu/author/prineha-narang/</link>
       <atom:link href="https://bioelectronics.mit.edu/author/prineha-narang/index.xml" rel="self" type="application/rss+xml" />
     <description>Prineha Narang</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 26 Feb 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 03 Jun 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://bioelectronics.mit.edu/images/logo_hu824973b0e9eedfd7e339f3ab3f0c6ec4_36236_300x300_fit_lanczos_2.png</url>
       <title>Prineha Narang</title>
       <link>https://bioelectronics.mit.edu/author/prineha-narang/</link>
     </image>
+    
+    <item>
+      <title>Finite-size effects of electron transport in PdCoO2</title>
+      <link>https://bioelectronics.mit.edu/publication/varnavides-2021-finite/</link>
+      <pubDate>Thu, 03 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://bioelectronics.mit.edu/publication/varnavides-2021-finite/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Direct Imaging and Electronic Structure Modulation of moiré Superlattices at the 2D/3D Interface</title>
