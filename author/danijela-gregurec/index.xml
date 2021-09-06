@@ -1,64 +1,7 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Danijela Gregurec | Biolelectronics at MIT</title>
-    <link>https://bioelectronics.mit.edu/author/danijela-gregurec/</link>
-      <atom:link href="https://bioelectronics.mit.edu/author/danijela-gregurec/index.xml" rel="self" type="application/rss+xml" />
-    <description>Danijela Gregurec</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 19 Jul 2020 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>https://bioelectronics.mit.edu/images/logo_hu824973b0e9eedfd7e339f3ab3f0c6ec4_36236_300x300_fit_lanczos_2.png</url>
-      <title>Danijela Gregurec</title>
-      <link>https://bioelectronics.mit.edu/author/danijela-gregurec/</link>
-    </image>
-    
-    <item>
-      <title>Mechanical Way to Stimulate Neurons</title>
-      <link>https://bioelectronics.mit.edu/post/2020-mechanical-way-to-stimulate-neurons/</link>
-      <pubDate>Sun, 19 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://bioelectronics.mit.edu/post/2020-mechanical-way-to-stimulate-neurons/</guid>
-      <description>&lt;p&gt;In addition to responding to electrical and chemical stimuli, many of the body’s neural cells can also respond to mechanical effects, such as pressure or vibration. But these responses have been more difficult for researchers to study, because there has been no easily controllable method for inducing such mechanical stimulation of the cells. Now, researchers at MIT and elsewhere have found a new method for doing just that.&lt;/p&gt;
-&lt;p&gt;The finding might offer a step toward new kinds of therapeutic treatments, similar to electrically based neurostimulation that has been used to treat Parkinson’s disease and other conditions. Unlike those systems, which require an external wire connection, the new system would be completely contact-free after an initial injection of particles, and could be reactivated at will through an externally applied magnetic field.&lt;/p&gt;
-&lt;p&gt;The finding is reported in the journal ACS Nano, in a paper by former MIT postdoc Danijela Gregurec, Alexander Senko PhD ’19, Associate Professor Polina Anikeeva, and nine others at MIT, at Boston’s Brigham and Women’s Hospital, and in Spain.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://news.mit.edu/2020/neural-cell-stimulation-magnet-0720&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Read the full story&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Magnetothermal Multiplexing for Selective Remote Control of Cell Signaling</title>
-      <link>https://bioelectronics.mit.edu/publication/moon-2020-magneothermal/</link>
-      <pubDate>Fri, 10 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://bioelectronics.mit.edu/publication/moon-2020-magneothermal/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Magnetic Vortex Nanodiscs Enable Remote Magnetomechanical Neural Stimulation</title>
-      <link>https://bioelectronics.mit.edu/publication/gregurec-2019-tuning/</link>
-      <pubDate>Fri, 19 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>https://bioelectronics.mit.edu/publication/gregurec-2019-tuning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Hormone Release</title>
-      <link>https://bioelectronics.mit.edu/post/2020-hormone-release/</link>
-      <pubDate>Fri, 10 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>https://bioelectronics.mit.edu/post/2020-hormone-release/</guid>
-      <description>&lt;p&gt;Abnormal levels of stress hormones such as adrenaline and cortisol are linked to a variety of mental health disorders, including depression and PTSD. MIT researchers, including the Anikeeva group, have now devised a way to remotely control the release of these hormones from the adrenal gland using magnetic nanoparticles.&lt;/p&gt;
-&lt;p&gt;To achieve control over hormone release, Dekel Rosenfeld, an MIT-Technion postdoc in Professor Anikeeva’s group, has developed specialized magnetic nanoparticles that can be injected into the adrenal gland. When exposed to a weak magnetic field, the particles heat up slightly, activating heat-responsive channels that trigger hormone release. This technique can be used to stimulate an organ deep in the body with minimal invasiveness.&lt;/p&gt;
-&lt;p&gt;The researchers now plan to use this approach to study how hormone release affects PTSD and other disorders, and they say that eventually it could be adapted for treating such disorders. This method would offer a much less invasive alternative to potential treatments that involve implanting a medical device to electrically stimulate hormone release, which is not feasible in organs such as the adrenal glands that are soft and highly vascularized.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;http://news.mit.edu/2020/remote-control-hormone-release-nanoparticles-0410&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Read the full story&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Transgene-free remote magnetothermal regulation of adrenal hormones</title>
-      <link>https://bioelectronics.mit.edu/publication/rosenfeld-2020-transgene/</link>
-      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>https://bioelectronics.mit.edu/publication/rosenfeld-2020-transgene/</guid>
-      <description></description>
-    </item>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Danijela Gregurec | Biolelectronics at MIT</title><link>https://bioelectronics.mit.edu/author/danijela-gregurec/</link><atom:link href="https://bioelectronics.mit.edu/author/danijela-gregurec/index.xml" rel="self" type="application/rss+xml"/><description>Danijela Gregurec</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 19 Jul 2020 00:00:00 +0000</lastBuildDate><image><url>https://bioelectronics.mit.edu/images/logo_hu824973b0e9eedfd7e339f3ab3f0c6ec4_36236_300x300_fit_lanczos_3.png</url><title>Danijela Gregurec</title><link>https://bioelectronics.mit.edu/author/danijela-gregurec/</link></image><item><title>Mechanical Way to Stimulate Neurons</title><link>https://bioelectronics.mit.edu/post/2020-mechanical-way-to-stimulate-neurons/</link><pubDate>Sun, 19 Jul 2020 00:00:00 +0000</pubDate><guid>https://bioelectronics.mit.edu/post/2020-mechanical-way-to-stimulate-neurons/</guid><description>&lt;p>In addition to responding to electrical and chemical stimuli, many of the body’s neural cells can also respond to mechanical effects, such as pressure or vibration. But these responses have been more difficult for researchers to study, because there has been no easily controllable method for inducing such mechanical stimulation of the cells. Now, researchers at MIT and elsewhere have found a new method for doing just that.&lt;/p>
+&lt;p>The finding might offer a step toward new kinds of therapeutic treatments, similar to electrically based neurostimulation that has been used to treat Parkinson’s disease and other conditions. Unlike those systems, which require an external wire connection, the new system would be completely contact-free after an initial injection of particles, and could be reactivated at will through an externally applied magnetic field.&lt;/p>
+&lt;p>The finding is reported in the journal ACS Nano, in a paper by former MIT postdoc Danijela Gregurec, Alexander Senko PhD ’19, Associate Professor Polina Anikeeva, and nine others at MIT, at Boston’s Brigham and Women’s Hospital, and in Spain.&lt;/p>
+&lt;p>&lt;a href="https://news.mit.edu/2020/neural-cell-stimulation-magnet-0720" target="_blank" rel="noopener">Read the full story&lt;/a>&lt;/p></description></item><item><title>Magnetothermal Multiplexing for Selective Remote Control of Cell Signaling</title><link>https://bioelectronics.mit.edu/publication/moon-2020-magneothermal/</link><pubDate>Fri, 10 Jul 2020 00:00:00 +0000</pubDate><guid>https://bioelectronics.mit.edu/publication/moon-2020-magneothermal/</guid><description/></item><item><title>Magnetic Vortex Nanodiscs Enable Remote Magnetomechanical Neural Stimulation</title><link>https://bioelectronics.mit.edu/publication/gregurec-2019-tuning/</link><pubDate>Fri, 19 Jun 2020 00:00:00 +0000</pubDate><guid>https://bioelectronics.mit.edu/publication/gregurec-2019-tuning/</guid><description/></item><item><title>Hormone Release</title><link>https://bioelectronics.mit.edu/post/2020-hormone-release/</link><pubDate>Fri, 10 Apr 2020 00:00:00 +0000</pubDate><guid>https://bioelectronics.mit.edu/post/2020-hormone-release/</guid><description>&lt;p>Abnormal levels of stress hormones such as adrenaline and cortisol are linked to a variety of mental health disorders, including depression and PTSD. MIT researchers, including the Anikeeva group, have now devised a way to remotely control the release of these hormones from the adrenal gland using magnetic nanoparticles.&lt;/p>
+&lt;p>To achieve control over hormone release, Dekel Rosenfeld, an MIT-Technion postdoc in Professor Anikeeva’s group, has developed specialized magnetic nanoparticles that can be injected into the adrenal gland. When exposed to a weak magnetic field, the particles heat up slightly, activating heat-responsive channels that trigger hormone release. This technique can be used to stimulate an organ deep in the body with minimal invasiveness.&lt;/p>
+&lt;p>The researchers now plan to use this approach to study how hormone release affects PTSD and other disorders, and they say that eventually it could be adapted for treating such disorders. This method would offer a much less invasive alternative to potential treatments that involve implanting a medical device to electrically stimulate hormone release, which is not feasible in organs such as the adrenal glands that are soft and highly vascularized.&lt;/p>
+&lt;p>&lt;a href="http://news.mit.edu/2020/remote-control-hormone-release-nanoparticles-0410" target="_blank" rel="noopener">Read the full story&lt;/a>&lt;/p></description></item><item><title>Transgene-free remote magnetothermal regulation of adrenal hormones</title><link>https://bioelectronics.mit.edu/publication/rosenfeld-2020-transgene/</link><pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate><guid>https://bioelectronics.mit.edu/publication/rosenfeld-2020-transgene/</guid><description/></item></channel></rss>
