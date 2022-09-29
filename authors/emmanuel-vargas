@@ -20,9 +20,14 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: Bioelectronics Lab Technician
 
-interests: []
+interests:
+- Neurobiology
+- Neuroscience
 
-education: []
+education:
+  - course: BA in Biology and Psychology
+    institution: Gettysburg College
+    year: 2022
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
